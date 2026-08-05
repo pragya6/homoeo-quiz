@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
-        with: { python-version: "3.11" }
+        with: { python-version: "3.13" }
       - run: pip install -r requirements.txt          # build
       - run: python -m pytest evaluation/ -q          # test (pure metrics, no API)
       - env: { GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}" }
