@@ -1,0 +1,23 @@
+name: ci-cd
+on:
+  push: { branches: [main] }
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt          # build
+      - run: python -m pytest evaluation/ -q          # test (pure metrics, no API)
+      - env: { GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}" }
+        run: python -m evaluation.run_eval --sample 15 --repeats 1   # smoke eval
+  cd:
+    needs: ci                                          # only if CI is green
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - env: { HF_TOKEN: "${{ secrets.HF_TOKEN }}" }
+        run: |
+          git push https://user:$HF_TOKEN@huggingface.co/spaces/pragya6/homeo-quiz main --force

@@ -1,0 +1,11 @@
+__pycache__/
+.env
+logs/
+data/raw/*.txt
+REPERTORY_EVAL_SPEC.md
+CLAUDE_CODE_EVAL_EXPANSION.md
+Extraction hand off.md
+CORPUS_HANDOFF.md
+CLAUDE_CODE_GATE_FIX.md
+CLAUDE_CODE_REFUSAL_FIX.md
+CLAUDE_CODE_TASK.md
