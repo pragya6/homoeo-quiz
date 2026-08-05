@@ -1,0 +1,8 @@
+{
+  "n_forward": 100,
+  "n_reverse": 10,
+  "n_errors": 0,
+  "answer_correctness": 1.0,
+  "distractor_validity": 1.0,
+  "failures": []
+}

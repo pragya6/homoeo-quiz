@@ -1,0 +1,62 @@
+{"topic": "law of similars", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 44"}
+{"topic": "vital force", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 9"}
+{"topic": "homoeopathic aggravation", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 161"}
+{"topic": "chronic miasms", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 204"}
+{"topic": "drug proving on healthy subjects", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 121"}
+{"topic": "the absence of residual disease after complete symptom cure", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 8"}
+{"topic": "totality of symptoms as guide to remedy choice", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 18"}
+{"topic": "cure only through a similar remedy, never a dissimilar one", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 48"}
+{"topic": "the faint residual medicinal disease after a homoeopathic cure", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 68"}
+{"topic": "primacy of the patient's own words in case-taking", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 98"}
+{"topic": "the vital-force-level mechanism of homoeopathic cure", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 148"}
+{"topic": "the fallacy of a disease confined only to a local body part", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 188"}
+{"topic": "responding to mania and mental derangement with calm demeanor", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 228"}
+{"topic": "verifying the genuineness of exotic drug substances before use", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 268"}
+{"topic": "Mesmerism (animal magnetism) as a therapeutic force", "subject": "Organon of Medicine", "expect": "answerable", "expect_locator": "§ 288"}
+{"topic": "Sulphur", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Sulphur"}
+{"topic": "Pulsatilla", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Pulsatilla"}
+{"topic": "Nux vomica", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Nux Vomica"}
+{"topic": "Lycopodium", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Lycopodium"}
+{"topic": "Arsenicum album", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Arsenicum Album"}
+{"topic": "Belladonna", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Belladonna"}
+{"topic": "Calcarea Carbonica", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Calcarea Carbonica"}
+{"topic": "Natrium Muriaticum", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Natrium Muriaticum"}
+{"topic": "Rhus Toxicodendron", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Rhus Toxicodendron"}
+{"topic": "Ignatia Amara", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Ignatia Amara"}
+{"topic": "Bryonia Alba", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Bryonia Alba"}
+{"topic": "Gelsemium Sempervirens", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Gelsemium Sempervirens"}
+{"topic": "Apis Mellifica", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Apis Mellifica"}
+{"topic": "Psorinum", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Psorinum"}
+{"topic": "Tuberculinum", "subject": "Materia Medica", "expect": "answerable", "expect_locator": "Tuberculinum"}
+{"topic": "Graphites", "subject": "Repertory", "expect": "answerable"}
+{"topic": "Sulphur", "subject": "Repertory", "expect": "answerable"}
+{"topic": "Ambra Grisea", "subject": "Repertory", "expect": "answerable"}
+{"topic": "Bovista", "subject": "Repertory", "expect": "answerable"}
+{"topic": "Carbolicum Acid", "subject": "Repertory", "expect": "answerable"}
+{"topic": "direction of cure", "subject": "Homoeopathic Philosophy", "expect": "refuse"}
+{"topic": "CRISPR gene editing protocol", "subject": null, "expect": "refuse"}
+{"topic": "2024 Union Budget allocation for AYUSH", "subject": null, "expect": "refuse"}
+{"topic": "laparoscopic cholecystectomy technique", "subject": null, "expect": "refuse"}
+{"topic": "monoclonal antibody dosing schedule", "subject": null, "expect": "refuse"}
+{"topic": "Bitcoin consensus mechanism", "subject": null, "expect": "refuse"}
+{"topic": "mRNA vaccine lipid nanoparticle delivery", "subject": null, "expect": "refuse"}
+{"topic": "statin mechanism for LDL cholesterol reduction", "subject": null, "expect": "refuse"}
+{"topic": "PCR-based diagnostic testing methodology", "subject": null, "expect": "refuse"}
+{"topic": "Ayurvedic dosha classification (vata, pitta, kapha)", "subject": null, "expect": "refuse"}
+{"topic": "Traditional Chinese Medicine meridian theory", "subject": null, "expect": "refuse"}
+{"topic": "acupuncture point selection for lower back pain", "subject": null, "expect": "refuse"}
+{"topic": "naturopathic hydrotherapy protocols", "subject": null, "expect": "refuse"}
+{"topic": "Unani medicine humoral theory (Tibb)", "subject": null, "expect": "refuse"}
+{"topic": "machine learning gradient descent optimization", "subject": null, "expect": "refuse"}
+{"topic": "GDPR data privacy compliance requirements", "subject": null, "expect": "refuse"}
+{"topic": "2024 Lok Sabha election results", "subject": null, "expect": "refuse"}
+{"topic": "causes of the French Revolution", "subject": null, "expect": "refuse"}
+{"topic": "Article 370 of the Indian Constitution", "subject": null, "expect": "refuse"}
+{"topic": "the plot of Shakespeare's Hamlet", "subject": null, "expect": "refuse"}
+{"topic": "rules of chess castling", "subject": null, "expect": "refuse"}
+{"topic": "capital cities of ASEAN member states", "subject": null, "expect": "refuse"}
+{"topic": "pharmacokinetics of paracetamol metabolism", "subject": null, "expect": "refuse"}
+{"topic": "histopathology of hepatic cirrhosis", "subject": null, "expect": "refuse"}
+{"topic": "anatomy of the brachial plexus", "subject": null, "expect": "refuse"}
+{"topic": "antibiotic resistance mechanisms in bacteria", "subject": null, "expect": "refuse"}
+{"topic": "physiology of the cardiac conduction system", "subject": null, "expect": "refuse"}

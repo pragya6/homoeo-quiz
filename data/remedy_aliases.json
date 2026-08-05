@@ -1,0 +1,6800 @@
+{
+  "AEsculus Glabra": {
+    "aliases": [
+      "AEsc. g.",
+      "AEsculus Glabra",
+      "Aesc-g"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "AEsculus Hippocastanum": {
+    "aliases": [
+      "AESCULUS HIPPOCASTANUM",
+      "AEsc.",
+      "AEsculus Hippocastanum",
+      "AEsculus hipocastanum",
+      "AEsculus hipp",
+      "AEsculus hippocastanum",
+      "Aesc",
+      "Aesculus Hippocastanum",
+      "aesc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "AEthusa Cynapium": {
+    "aliases": [
+      "AETHUSA CYNAPIUM",
+      "AEth.",
+      "AEthusa",
+      "AEthusa Cynapium",
+      "Aeth",
+      "Aethusa Cynapium",
+      "aeth"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Abies Nigra": {
+    "aliases": [
+      "ABIES NIGRA",
+      "Abies Nigra",
+      "Abies-n",
+      "Abies. n.",
+      "abies-n"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Abrotanum": {
+    "aliases": [
+      "ABROTANUM",
+      "Abrot",
+      "Abrot.",
+      "Abrotanum",
+      "abrot"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Absinthium": {
+    "aliases": [
+      "ABSINTHIUM",
+      "Absin",
+      "Absin.",
+      "Absinthium",
+      "absin"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Acalypha Indica": {
+    "aliases": [
+      "ACALYPHA INDICA",
+      "Acal",
+      "Acal.",
+      "Acalypha Indica",
+      "acal"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Aceticum Acidum": {
+    "aliases": [
+      "ACETICUM ACIDUM",
+      "Acet-ac",
+      "Acet. ac.",
+      "Aceticum Acidum",
+      "acet-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Aconitum Napellus": {
+    "aliases": [
+      "ACONITUM NAPELLUS",
+      "Acon",
+      "Acon.",
+      "Aconitum Napellus",
+      "acon"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Actea Racemosa": {
+    "aliases": [
+      "Act. r.",
+      "Actaea Racemosa",
+      "Actaea racemosa",
+      "Actea Racemosa",
+      "Cimicifuga"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Actea Spicata": {
+    "aliases": [
+      "ACTAEA SPICATA",
+      "Act-sp",
+      "Act. sp.",
+      "Actaea Spicata",
+      "Actea Spicata",
+      "act-sp"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Agaricus Muscarius": {
+    "aliases": [
+      "AGARICUS MUSCARIUS",
+      "Agar",
+      "Agar.",
+      "Agaricus",
+      "Agaricus Muscarius",
+      "Amanita",
+      "agar"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Agnus Castus": {
+    "aliases": [
+      "AGNUS CASTUS",
+      "Agn",
+      "Agn.",
+      "Agnus Castus",
+      "Agnus castus",
+      "agn"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ailanthus Glandulosa": {
+    "aliases": [
+      "AILANTHUS GLANDULOSA",
+      "Ail",
+      "Ail.",
+      "Ailanthus",
+      "Ailanthus Glandulosa",
+      "ail"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Aletris Farinosa": {
+    "aliases": [
+      "ALETRIS FARINOSA",
+      "Alet",
+      "Alet.",
+      "Aletris Farinosa",
+      "alet"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Allium Cepa": {
+    "aliases": [
+      "ALLIUM CEPA",
+      "All-c",
+      "All. c.",
+      "Allium Cepa",
+      "Cepa",
+      "all-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Allium Sativum": {
+    "aliases": [
+      "ALLIUM SATIVUM",
+      "All-s",
+      "All. s.",
+      "Allium Sativum",
+      "all-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Aloe Socotrina": {
+    "aliases": [
+      "ALOE SOCOTRINA",
+      "Aloe",
+      "Aloe Socotrina",
+      "Aloe socotrina",
+      "aloe"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Alumen": {
+    "aliases": [
+      "ALUMEN",
+      "Alumen",
+      "Alumn",
+      "Alumn.",
+      "alumn"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Alumina": {
+    "aliases": [
+      "ALUMINA",
+      "Alum",
+      "Alum.",
+      "Alumina",
+      "Argilla",
+      "alum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ambra Grisea": {
+    "aliases": [
+      "AMBRA GRISEA",
+      "Ambr",
+      "Ambr.",
+      "Ambra",
+      "Ambra Grisea",
+      "Ambra grisea",
+      "ambr"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ammoniacum": {
+    "aliases": [
+      "Ammc",
+      "Ammc.",
+      "Ammoniacum",
+      "ammc"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ammonium Benzoicum": {
+    "aliases": [
+      "AMMONIUM BENZOICUM",
+      "Am-be",
+      "Am. be.",
+      "Ammonium Benzoicum"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ammonium Bromidum": {
+    "aliases": [
+      "Am-br",
+      "Am. br.",
+      "Ammonium Bromidum",
+      "am-br"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ammonium Carbonicum": {
+    "aliases": [
+      "AMMONIUM CARBONICUM",
+      "Am-c",
+      "Am. c.",
+      "Ammonium Carbonicum",
+      "Ammonium carb",
+      "am-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ammonium Muriaticum": {
+    "aliases": [
+      "AMMONIUM MURIATICUM",
+      "Am-m",
+      "Am. m.",
+      "Ammonium Muriaticum",
+      "Ammonium mur",
+      "Ammonium muriaticum",
+      "am-m"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Amygdala Amara": {
+    "aliases": [
+      "Amyg",
+      "Amyg.",
+      "Amygdala Amara",
+      "amyg"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Amylenum Nitrosum": {
+    "aliases": [
+      "AMYLENUM NITROSUM",
+      "Aml-n",
+      "Aml. ns.",
+      "Amylenum Nitrosum",
+      "aml-n"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Anacardium Occidentale": {
+    "aliases": [
+      "Anac. oc.",
+      "Anacardium Occidentale",
+      "anac-oc"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Anacardium Orientale": {
+    "aliases": [
+      "ANACARDIUM ORIENTALE",
+      "Anac",
+      "Anac.",
+      "Anacardium Orientale",
+      "Anacardium orientale",
+      "anac"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Anagallis Arvensis": {
+    "aliases": [
+      "ANAGALLIS ARVENSIS",
+      "Anag",
+      "Anag.",
+      "Anagallis Arvensis",
+      "anag"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Anantherum Muricatum": {
+    "aliases": [
+      "ANANTHERUM MURICATUM",
+      "Anan",
+      "Anan.",
+      "Anantherum Muricatum",
+      "anan"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Angustura": {
+    "aliases": [
+      "Ang",
+      "Ang.",
+      "Angustura",
+      "ang"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Anthracinum": {
+    "aliases": [
+      "ANTHRACINUM",
+      "Anthraci.",
+      "Anthracinum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Anthrokokali": {
+    "aliases": [
+      "Anthraco.",
+      "Anthrokokali"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Antimonium Arsenitum": {
+    "aliases": [
+      "ANTIMONIUM ARSENICOSUM",
+      "Ant. ar.",
+      "Antimonium Arsenicicum",
+      "Antimonium Arsenitum",
+      "ant-a"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Antimonium Chloridum": {
+    "aliases": [
+      "Ant-chl",
+      "Ant. chl.",
+      "Antimonium Chloridum",
+      "Antimonium Muriaticum"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Antimonium Crudum": {
+    "aliases": [
+      "ANTIMONIUM CRUDUM",
+      "Ant-c",
+      "Ant. crud",
+      "Ant. c.",
+      "Antimonium Crudum",
+      "Antimonium crud",
+      "Antimonium crudum",
+      "ant-c"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Antimonium Sulphuratum Auratum": {
+    "aliases": [
+      "ANTIMONIUM SULPHURATUM AURATUM",
+      "Ant-s",
+      "Ant. s. aur.",
+      "Antimonium Sulphuratum Auratum",
+      "Antimonium Sulphuratum Aureum",
+      "ant-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Antimonium Tartaricum": {
+    "aliases": [
+      "ANTIMONIUM TARTARICUM",
+      "Ant-t",
+      "Ant. t",
+      "Ant. t.",
+      "Antimonium Tartaricum",
+      "Antimonium tart",
+      "Antimonium tartaricum",
+      "ant-t"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Aphis Chenopodii Glauci": {
+    "aliases": [
+      "APHIS CHENOPODII GLAUCI",
+      "Aphis",
+      "Aphis Chenopodii Glauci",
+      "Aphis.",
+      "Chenopodii Glauci Aphis",
+      "aphis"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Apis": {
+    "aliases": [
+      "APIS MELLIFICA",
+      "Apis",
+      "Apis Mellifica",
+      "Apis mel",
+      "Apis mellifica",
+      "apis"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Apocynum Cannabinum": {
+    "aliases": [
+      "APOCYNUM CANNABINUM",
+      "Apoc",
+      "Apoc.",
+      "Apocynum",
+      "Apocynum Cann",
+      "Apocynum Cannabinum",
+      "apoc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Argentum Metallicum": {
+    "aliases": [
+      "ARGENTUM METALLICUM",
+      "Arg-m",
+      "Arg. m.",
+      "Argentum Metallicum",
+      "Argentum met",
+      "Argentum metall",
+      "arg-m"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Argentum Nitricum": {
+    "aliases": [
+      "ARGENTUM NITRICUM",
+      "Arg-n",
+      "Arg. n.",
+      "Argentum Nitricum",
+      "Argentum nit",
+      "Argentum nitricum",
+      "arg-n"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Armoracea Sativa": {
+    "aliases": [
+      "Arm.",
+      "Armoracea Sativa",
+      "Cochlearia"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Arnica Montana": {
+    "aliases": [
+      "ARNICA MONTANA",
+      "Arn",
+      "Arn.",
+      "Arnica",
+      "Arnica Montana",
+      "Radix",
+      "arn"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Arsenicum Album": {
+    "aliases": [
+      "ARSENICUM ALBUM",
+      "Ars",
+      "Ars.",
+      "Arsenic Album",
+      "Arsenicum Album",
+      "Arsenicum alb",
+      "Arsenicum album",
+      "ars"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Arsenicum Hydrogenisatum": {
+    "aliases": [
+      "ARSENICUM HYDROGENISATUM",
+      "Ars-h",
+      "Ars. h.",
+      "Arsenicum Hydrogenisatum",
+      "ars-h"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arsenicum Iodatum": {
+    "aliases": [
+      "ARSENICUM IODATUM",
+      "Ars-i",
+      "Ars. i.",
+      "Arsenicum Iodatum",
+      "ars-i"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arsenicum Metallicum": {
+    "aliases": [
+      "ARSENICUM METALLICUM",
+      "Ars-m",
+      "Ars. met.",
+      "Arsenicum Metallicum",
+      "ars-m"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arsenicum Sulphuratum Flavum": {
+    "aliases": [
+      "ARSENICUM SULPHURATUM FLAVUM",
+      "Ars-s-f",
+      "Ars. s. f.",
+      "Arsenicum Sulphuratum Flavum",
+      "ars-s-f"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arsenicum Sulphuratum Rubrum": {
+    "aliases": [
+      "Ars-s-r",
+      "Ars. s. r.",
+      "Arsenicum Sulphuratum Rubrum",
+      "ars-s-r"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Artemisia Vulgaris": {
+    "aliases": [
+      "ARTEMISIA VULGARIS",
+      "Art-v",
+      "Art.",
+      "Artemisia Vulgaris",
+      "art-v"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arum Dracontium": {
+    "aliases": [
+      "ARUM DRACONTIUM",
+      "Arum Dracontium",
+      "Arum-d",
+      "Arum d.",
+      "arum-d"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arum Maculatum": {
+    "aliases": [
+      "Arum Maculatum",
+      "Arum-m",
+      "Arum m.",
+      "arum-m"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Arum Triphyllum": {
+    "aliases": [
+      "ARUM TRIPHYLLUM",
+      "Arum Triphyllum",
+      "Arum tri",
+      "Arum triphyllum",
+      "Arum-t",
+      "Arum t.",
+      "arum-t"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Arundo Mauritanica": {
+    "aliases": [
+      "ARUNDO MAURITANICA",
+      "Arund",
+      "Arund.",
+      "Arundo Mauritanica",
+      "arund"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Asafoetida": {
+    "aliases": [
+      "ASA FOETIDA",
+      "Asaf",
+      "Asaf.",
+      "Asafoetida",
+      "asaf"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Asarum Europaeum": {
+    "aliases": [
+      "ASARUM EUROPAEUM",
+      "Asar",
+      "Asar.",
+      "Asarum",
+      "Asarum Europ",
+      "Asarum Europaeum",
+      "Asarum Europoeum",
+      "asar"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Asclepias Syriaca": {
+    "aliases": [
+      "ASCLEPIAS CORNUTI",
+      "Asc-c",
+      "Asc. c. Asc. s.",
+      "Asclepias Cornuti",
+      "Asclepias Syriaca",
+      "asc-c"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Asclepias Tuberosa": {
+    "aliases": [
+      "ASCLEPIAS TUBEROSA",
+      "Asc-t",
+      "Asc. t.",
+      "Asclepias Tuberosa",
+      "asc-t"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Asimina Triloba": {
+    "aliases": [
+      "ASIMINA TRILOBA",
+      "Asim",
+      "Asim.",
+      "Asimina Triloba",
+      "asim"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Asparagus Officinalis": {
+    "aliases": [
+      "ASPARAGUS OFFICINALIS",
+      "Aspar",
+      "Aspar.",
+      "Asparagus",
+      "Asparagus Officinalis",
+      "aspar"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Astacus Fluviatilis": {
+    "aliases": [
+      "ASTACUS FLUVIATILIS",
+      "Astac",
+      "Astac.",
+      "Astacus Fluviatilis",
+      "astac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Asterias Rubens": {
+    "aliases": [
+      "ASTERIAS RUBENS",
+      "Aster",
+      "Aster.",
+      "Asterias",
+      "Asterias Rubens",
+      "Asterias rubens",
+      "aster"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Atropinum": {
+    "aliases": [
+      "Atro",
+      "Atro.",
+      "Atropinum",
+      "atro"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Atropinum Sulphuricum": {
+    "aliases": [
+      "Atro-s",
+      "Atro. s.",
+      "Atropinum Sulphuricum",
+      "atro-s"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Aurantium": {
+    "aliases": [
+      "Aurant.",
+      "Aurantium",
+      "CITRUS VULGARIS",
+      "Citrus Vulgaris"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Aurum Metallicum": {
+    "aliases": [
+      "AURUM METALLICUM",
+      "Aur",
+      "Aur.",
+      "Aurum Metallicum",
+      "Aurum met",
+      "Aurum metall",
+      "Aurum metallicum",
+      "aur"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Aurum Muriaticum": {
+    "aliases": [
+      "Aur-m",
+      "Aur. m.",
+      "Aurum Muriaticum",
+      "aur-m"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Aurum Muriaticum Natronatum": {
+    "aliases": [
+      "AURUM MURIATICUM NATRONATUM",
+      "Aur-m-n",
+      "Aur. m. n.",
+      "Aurum Muriaticum Natronatum",
+      "Aurum muriaticum natronatum",
+      "aur-m-n"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Badiaga": {
+    "aliases": [
+      "BADIAGA",
+      "Bad",
+      "Bad.",
+      "Badiaga",
+      "bad"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Baptisia Tinctoria": {
+    "aliases": [
+      "BAPTISIA TINCTORIA",
+      "Bapt",
+      "Bapt.",
+      "Baptisia",
+      "Baptisia Tinctoria",
+      "Baptisia tinctoria",
+      "bapt"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Baryta Carbonica": {
+    "aliases": [
+      "BARYTA CARBONICA",
+      "Bar-ac",
+      "Bar-c",
+      "Bar. c.",
+      "Baryta Carbonica",
+      "Baryta carb",
+      "Baryta carbonica",
+      "bar-ac",
+      "bar-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Baryta Muriatica": {
+    "aliases": [
+      "BARYTA MURIATICA",
+      "Bar-m",
+      "Bar. m.",
+      "Baryta Muriatica",
+      "bar-m"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Belladonna": {
+    "aliases": [
+      "BELLADONNA",
+      "Bell",
+      "Bell.",
+      "Belladonna",
+      "bell"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Benzoic Acid": {
+    "aliases": [
+      "Benz",
+      "Benz-ac",
+      "Benz. ac.",
+      "Benzoic Acid",
+      "Benzoic acid",
+      "benz",
+      "benz-ac"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Berberis": {
+    "aliases": [
+      "BERBERIS VULGARIS",
+      "Berb",
+      "Berb.",
+      "Berberis",
+      "Berberis Vulgaris",
+      "berb"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Bismuthum": {
+    "aliases": [
+      "Bism",
+      "Bism.",
+      "Bismuthum",
+      "bism"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Borax": {
+    "aliases": [
+      "BORAX VENETA",
+      "Bor",
+      "Bor.",
+      "Borax",
+      "Borax Veneta",
+      "bor"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Bovista": {
+    "aliases": [
+      "Bov",
+      "Bov.",
+      "Bovista",
+      "bov"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Brachyglottis Repens": {
+    "aliases": [
+      "BRACHYGLOTTIS REPENS",
+      "Brach",
+      "Brach.",
+      "Brachyglottis Repens",
+      "brach"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Bromium": {
+    "aliases": [
+      "BROMIUM",
+      "Brom",
+      "Brom.",
+      "Bromium",
+      "brom"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Bryonia Alba": {
+    "aliases": [
+      "BRYONIA ALBA",
+      "Bry",
+      "Bry.",
+      "Bryonia",
+      "Bryonia Alba",
+      "Bryonia alb",
+      "bry"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Bufo Rana": {
+    "aliases": [
+      "BUFO RANA",
+      "Bufo",
+      "Bufo Rana",
+      "Bufones",
+      "bufo"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cactus Grandiflorus": {
+    "aliases": [
+      "CACTUS GRANDIFLORUS",
+      "Cact",
+      "Cact.",
+      "Cactus",
+      "Cactus Grandiflorus",
+      "Cactus grandiflorus",
+      "cact"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cadmium Sulfuratum": {
+    "aliases": [
+      "CADMIUM SULPHURATUM",
+      "Cadm",
+      "Cadm. s.",
+      "Cadmium Sulfuratum",
+      "Cadmium Sulphuratum",
+      "cadm"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cainca": {
+    "aliases": [
+      "CAINCA",
+      "Cahinca Racemosa",
+      "Cain.",
+      "Cainca"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Calabar": {
+    "aliases": [
+      "Calab.",
+      "Calabar"
+    ],
+    "sources": [
+      "hering"
+    ]
+  },
+  "Caladium Seguinum": {
+    "aliases": [
+      "CALADIUM SEGUINUM",
+      "Calad",
+      "Calad.",
+      "Caladium",
+      "Caladium Seguinum",
+      "Caladium.",
+      "calad"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Calcarea Arsenica": {
+    "aliases": [
+      "CALCAREA ARSENICOSA",
+      "Calc-ar",
+      "Calc. ar.",
+      "Calcarea Arsenica",
+      "Calcarea Arsenicosa",
+      "calc-ar"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Calcarea Fluorica": {
+    "aliases": [
+      "CALCAREA FLUORICA",
+      "Calc-f",
+      "Calc. f.",
+      "Calcarea Fluor",
+      "Calcarea Fluorica",
+      "calc-f"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Calcarea Ostrearum": {
+    "aliases": [
+      "CALCAREA CARBONICA",
+      "Calc-ac",
+      "Calc. ost",
+      "Calc. c.",
+      "Calcarea Carbonica",
+      "Calcarea Ostrearum",
+      "Calcarea carb",
+      "Calcarea carbonica",
+      "Calcarea ost",
+      "Calcarea ostrearum",
+      "calc-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Calcarea Phosphorica": {
+    "aliases": [
+      "CALCAREA PHOSPHORICA",
+      "Calc-p",
+      "Calc. Phos",
+      "Calc. phos",
+      "Calc. p.",
+      "Calcarea Hypophosphorica",
+      "Calcarea Phosphorica",
+      "Calcarea phos",
+      "Calcarea phosphorica",
+      "calc-p"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Calcarea Sulphurica": {
+    "aliases": [
+      "CALCAREA SULPHURICA",
+      "Calc-s",
+      "Calc. s.",
+      "Calcarea Sulphurica",
+      "Calcarea sulphurica",
+      "calc-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Calendula": {
+    "aliases": [
+      "Calen",
+      "Calen.",
+      "Calendula",
+      "calen"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Camphora": {
+    "aliases": [
+      "CAMPHORA",
+      "Camph",
+      "Camph.",
+      "Camphor",
+      "Camphora",
+      "camph"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cannabis Indica": {
+    "aliases": [
+      "CANNABIS INDICA",
+      "Cann-i",
+      "Cann. i.",
+      "Cannabis Indica",
+      "cann-i"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cannabis Sativa": {
+    "aliases": [
+      "CANNABIS SATIVA",
+      "Cann-s",
+      "Cann. s.",
+      "Cannabis Sativa",
+      "Cannabis sat",
+      "cann-s"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cantharides": {
+    "aliases": [
+      "CANTHARIS VESICATORIA",
+      "Canth",
+      "Canth.",
+      "Cantharides",
+      "Cantharis",
+      "Cantharis Vesicatoria",
+      "canth"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Capsicum": {
+    "aliases": [
+      "CAPSICUM ANNUUM",
+      "Caps",
+      "Caps.",
+      "Capsicum",
+      "Capsicum Annuum",
+      "caps"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Carbo Animalis": {
+    "aliases": [
+      "CARBO ANIMALIS",
+      "Carb-an",
+      "Carb. an.",
+      "Carbo Animalis",
+      "Carbo animalis",
+      "carb-an"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Carbo Vegetabilis": {
+    "aliases": [
+      "CARBO VEGETABILIS",
+      "Carb-v",
+      "Carb. v.",
+      "Carbo Vegetabilis",
+      "Carbo v",
+      "Carbo veg",
+      "Carbo vegetabilis",
+      "carb-v"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Carbolicum Acid": {
+    "aliases": [
+      "CARBOLICUM ACIDUM",
+      "Carb-ac",
+      "Carb. ac.",
+      "Carbolic Acid",
+      "Carbolicum Acid",
+      "Carbolicum Acidum",
+      "carb-ac"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Carboneum Sulphuratum": {
+    "aliases": [
+      "CARBONEUM SULPHURATUM",
+      "Carb-s",
+      "Carbn. s.",
+      "Carboneum",
+      "Carboneum Sulphuratum",
+      "carb-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Carduus Marianus": {
+    "aliases": [
+      "CARDUUS MARIANUS",
+      "Card-m",
+      "Card. m.",
+      "Carduus",
+      "Carduus Marianus",
+      "card-m"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cascarilla": {
+    "aliases": [
+      "CASCARILLA",
+      "Casc",
+      "Casc.",
+      "Cascarilla",
+      "casc"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Castanea Vesca": {
+    "aliases": [
+      "CASTANEA VESCA",
+      "Cast-v",
+      "Cast. v.",
+      "Castanea Vesca",
+      "cast-v"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Castor Equorum": {
+    "aliases": [
+      "CASTOR EQUI",
+      "Cast-eq",
+      "Cast. eq.",
+      "Castor Equi",
+      "Castor Equorum",
+      "Castor equorum",
+      "cast-eq"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Castoreum": {
+    "aliases": [
+      "CASTOREUM CANADENSE",
+      "Cast",
+      "Cast.",
+      "Castoreum",
+      "Castoreum Canadense",
+      "cast"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Caulophyllum Thalictroides": {
+    "aliases": [
+      "CAULOPHYLLUM THALICTROIDES",
+      "Caul",
+      "Caul.",
+      "Caulophyllum",
+      "Caulophyllum Thalictroides",
+      "caul"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Causticum": {
+    "aliases": [
+      "CAUSTICUM",
+      "Caust",
+      "Caust.",
+      "Causticum",
+      "caust"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ceanothus Americanus": {
+    "aliases": [
+      "CEANOTHUS AMERICANUS",
+      "Cean",
+      "Cean.",
+      "Ceanothus",
+      "Ceanothus Americanus",
+      "cean"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cedron": {
+    "aliases": [
+      "CEDRON",
+      "Cedr",
+      "Cedr.",
+      "Cedron",
+      "cedr"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cetraria Islandica": {
+    "aliases": [
+      "Cetr.",
+      "Cetraria Islandica"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Chamomilla": {
+    "aliases": [
+      "CHAMOMILLA",
+      "Cham",
+      "Cham.",
+      "Chamomilla",
+      "cham"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Chelidonium Majus": {
+    "aliases": [
+      "CHELIDONIUM MAJUS",
+      "Chel",
+      "Chel.",
+      "Chelidonium",
+      "Chelidonium Majus",
+      "chel"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Chenopodium Anthelminticum": {
+    "aliases": [
+      "CHENOPODIUM ANTHELMINTICUM",
+      "Chen-a",
+      "Chen. a.",
+      "Chenopodium Anthelminticum",
+      "Chenopodium anthelminticum",
+      "chen-a"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Chenopodium Vulvaria": {
+    "aliases": [
+      "Chen. v.",
+      "Chenopodium Vulvaria",
+      "chen-v"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chimaphila Maculata": {
+    "aliases": [
+      "Chim-m",
+      "Chim. m.",
+      "Chimaphila Maculata",
+      "chim-m"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chimaphila Umbellata": {
+    "aliases": [
+      "CHIMAPHILA UMBELLATA",
+      "Chim",
+      "Chim.",
+      "Chimaphila Umbellata",
+      "chim"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "China Boliviana": {
+    "aliases": [
+      "Chin-b",
+      "Chin. b.",
+      "China Boliviana",
+      "Cinchona",
+      "chin-b"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "China Officinalis": {
+    "aliases": [
+      "CHINA OFFICINALIS",
+      "Chin",
+      "Chin.",
+      "China Officinalis",
+      "China off",
+      "China officinalis",
+      "Cinchona",
+      "chin"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Chininum Arsenicosum": {
+    "aliases": [
+      "CHININUM ARSENICOSUM",
+      "Chin-a",
+      "Chin. ar.",
+      "Chininum Arsenicosum",
+      "chin-a"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chininum Muriaticum": {
+    "aliases": [
+      "Chin. m.",
+      "Chininum Muriaticum"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Chininum Sulphuricum": {
+    "aliases": [
+      "CHININUM SULPHURICUM",
+      "Chin-s",
+      "Chin. s.",
+      "Chininum Sulfuricum",
+      "Chininum Sulphuricum",
+      "chin-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chionanthus Virginica": {
+    "aliases": [
+      "CHIONANTHUS VIRGINICA",
+      "Chion",
+      "Chion.",
+      "Chionanthus Virginica",
+      "chion"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chloralum": {
+    "aliases": [
+      "Chlol",
+      "Chlol.",
+      "Chloralum",
+      "chlol"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chloroformum": {
+    "aliases": [
+      "CHLOROFORMIUM",
+      "Chlf",
+      "Chlf.",
+      "Chloroformum",
+      "chlf"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chlorum": {
+    "aliases": [
+      "CHLORUM",
+      "Chlor",
+      "Chlor.",
+      "Chlorum",
+      "chlor"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Chromicum Acidum": {
+    "aliases": [
+      "CHROMICUM ACIDUM",
+      "Chr-ac",
+      "Chr. ac.",
+      "Chromicum Acidum",
+      "chr-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cicuta Virosa": {
+    "aliases": [
+      "CICUTA VIROSA",
+      "Cic",
+      "Cic.",
+      "Cicuta",
+      "Cicuta Virosa",
+      "Cicuta virosa",
+      "cic"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cimex Lectularius": {
+    "aliases": [
+      "CIMEX LECTULARIUS",
+      "Cimex",
+      "Cimex Lectularius",
+      "Cimx",
+      "Cimx.",
+      "cimx"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cina": {
+    "aliases": [
+      "CINA MARITIMA",
+      "Cina",
+      "Cina Maritima",
+      "cina"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cinnabaris": {
+    "aliases": [
+      "CINNABARIS",
+      "Cinnabaris",
+      "Cinnb",
+      "Cinnb.",
+      "cinnb"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cinnamomum": {
+    "aliases": [
+      "Cinnam",
+      "Cinnamomum",
+      "Cinnm.",
+      "cinnam"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cistus Canadensis": {
+    "aliases": [
+      "CISTUS CANADENSIS",
+      "Cist",
+      "Cist.",
+      "Cistus",
+      "Cistus Canadensis",
+      "cist"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Citrus Limonum": {
+    "aliases": [
+      "Cit. l.",
+      "Citrus Limonum"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Clematis Erecta": {
+    "aliases": [
+      "CLEMATIS ERECTA",
+      "Clem",
+      "Clem.",
+      "Clematis",
+      "Clematis Erecta",
+      "Clematis erecta",
+      "clem"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Coca": {
+    "aliases": [
+      "Coca",
+      "Coca.",
+      "Erythroxylon Coca",
+      "coca"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Coccinella Septempunctata": {
+    "aliases": [
+      "COCCINELLA SEPTEMPUNCTATA",
+      "Cocc-s",
+      "Cocc. s.",
+      "Coccinella",
+      "Coccinella Septempunctata",
+      "cocc-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cocculus": {
+    "aliases": [
+      "COCCULUS INDICUS",
+      "Cocc",
+      "Cocc.",
+      "Cocculus",
+      "Cocculus Indicus",
+      "cocc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Coccus Cacti": {
+    "aliases": [
+      "COCCUS CACTI",
+      "Coc-c",
+      "Coc. c.",
+      "Coccus Cacti",
+      "Coccus cacti",
+      "coc-c"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Codeinum": {
+    "aliases": [
+      "CODEINUM",
+      "Cod",
+      "Cod.",
+      "Codeinum",
+      "cod"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Coffea Cruda": {
+    "aliases": [
+      "COFFEA CRUDA",
+      "Coff",
+      "Coff.",
+      "Coffea Cruda",
+      "Coffea cruda",
+      "Coffee Cruda",
+      "coff"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Coffea Tosta": {
+    "aliases": [
+      "Coff. t.",
+      "Coffea Tosta",
+      "coff-t"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Colchicum Autumnale": {
+    "aliases": [
+      "COLCHICUM AUTUMNALE",
+      "Colch",
+      "Colch.",
+      "Colchicum",
+      "Colchicum Autumnale",
+      "colch"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Collinsonia Canadensis": {
+    "aliases": [
+      "COLLINSONIA CANADENSIS",
+      "Coll",
+      "Coll.",
+      "Collinsonia Canadensis",
+      "coll"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Colocynthis": {
+    "aliases": [
+      "COLOCYNTHIS",
+      "Coloc",
+      "Coloc.",
+      "Colocynth",
+      "Colocynthis",
+      "coloc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Comocladia Dentata": {
+    "aliases": [
+      "COMOCLADIA DENTATA",
+      "Com",
+      "Com.",
+      "Comocladia",
+      "Comocladia Dentata",
+      "com"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Conium Maculatum": {
+    "aliases": [
+      "CONIUM MACULATUM",
+      "Con",
+      "Con.",
+      "Conium",
+      "Conium Maculatum",
+      "con"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Copaiva. -THE GUIDING SYMPTOMS OF OUR MATERIA MEDICA By CONSTANTINE HERING, M.D": {
+    "aliases": [
+      "Cop",
+      "Cop.",
+      "Copaiva",
+      "Copaiva. -THE GUIDING SYMPTOMS OF OUR MATERIA MEDICA By CONSTANTINE HERING, M.D",
+      "cop"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Corallium Rubrum": {
+    "aliases": [
+      "CORALLIUM RUBRUM",
+      "Cor-r",
+      "Cor. r.",
+      "Corallium Rubrum",
+      "cor-r",
+      "cori-r"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cornus Circinata and Florida": {
+    "aliases": [
+      "CORNUS CIRCINATA",
+      "Corn",
+      "Corn.",
+      "Cornus Circinata",
+      "Cornus Circinata and Florida",
+      "corn"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Crocus Sativus": {
+    "aliases": [
+      "CROCUS SATIVUS",
+      "Croc",
+      "Croc.",
+      "Crocus",
+      "Crocus Sativus",
+      "croc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Crotalus Horridus": {
+    "aliases": [
+      "CROTALUS HORRIDUS",
+      "Crot-h",
+      "Crot. h.",
+      "Crotalus",
+      "Crotalus Horridus",
+      "crot-h"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Croton Tiglium": {
+    "aliases": [
+      "CROTON TIGLIUM",
+      "Crot-t",
+      "Crot. t.",
+      "Croton Tiglium",
+      "Croton tig",
+      "Croton tiglium",
+      "crot-t"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cubeba": {
+    "aliases": [
+      "CUBEBA OFFICINALIS",
+      "Cub",
+      "Cub.",
+      "Cubeba",
+      "Cubeba Officinalis",
+      "cub"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cundurango": {
+    "aliases": [
+      "CUNDURANGO",
+      "Condurango",
+      "Cund",
+      "Cund.",
+      "Cundurango",
+      "cund"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cuprum Aceticum": {
+    "aliases": [
+      "CUPRUM ACETICUM",
+      "Cupr. a.",
+      "Cuprum Aceticum",
+      "cupr-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cuprum Arsenicosum": {
+    "aliases": [
+      "CUPRUM ARSENICOSUM",
+      "Cupr-ar",
+      "Cupr. ar.",
+      "Cuprum Arsenicosum",
+      "cupr-ar"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cuprum Metallicum": {
+    "aliases": [
+      "CUPRUM METALLICUM",
+      "Cupr",
+      "Cupr.",
+      "Cuprum Metallicum",
+      "Cuprum met",
+      "Cuprum metallicum",
+      "cupr"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cuprum Sulphuricum": {
+    "aliases": [
+      "Cupr-s",
+      "Cupr. s.",
+      "Cuprum Sulphuricum",
+      "cupr-s"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Curare": {
+    "aliases": [
+      "CURARE",
+      "Cur",
+      "Cur.",
+      "Curara",
+      "Curare",
+      "cur"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Cyclamen Europaeum": {
+    "aliases": [
+      "CYCLAMEN EUROPAEUM",
+      "Cycl",
+      "Cycl.",
+      "Cyclamen",
+      "Cyclamen Europaeum",
+      "cycl"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Cypripedium": {
+    "aliases": [
+      "CYPRIPEDIUM PUBESCENS",
+      "Cypr",
+      "Cypr.",
+      "Cypripedium",
+      "Cypripedium Pubescens",
+      "cypr"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Daphne Odora": {
+    "aliases": [
+      "DAPHNE INDICA",
+      "Daph",
+      "Daph.",
+      "Daphne Indica",
+      "Daphne Odora",
+      "daph"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Diadema Aranea": {
+    "aliases": [
+      "ARANEA DIADEMA",
+      "Aran",
+      "Aran. d.",
+      "Aranea",
+      "Aranea Diadema",
+      "Diadema Aranea",
+      "aran"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Digitalis Purpurea": {
+    "aliases": [
+      "DIGITALIS PURPUREA",
+      "Dig",
+      "Dig.",
+      "Digitalis",
+      "Digitalis Purpurea",
+      "dig"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Dioscorea Villosa": {
+    "aliases": [
+      "DIOSCOREA VILLOSA",
+      "Dios",
+      "Dios.",
+      "Dioscorea",
+      "Dioscorea Vill",
+      "Dioscorea Villosa",
+      "dios"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Dolichos Pruriens": {
+    "aliases": [
+      "DOLICHOS PRURIENS",
+      "Dol",
+      "Dol.",
+      "Dolichos",
+      "Dolichos Prur",
+      "Dolichos Pruriens",
+      "dol"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Doryphora Decemlineata": {
+    "aliases": [
+      "DORYPHORA DECEMLINEATA",
+      "Dor",
+      "Dor.",
+      "Doryphora",
+      "Doryphora Decemlineata",
+      "dor"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Drosera Rotundifolia": {
+    "aliases": [
+      "DROSERA ROTUNDIFOLIA",
+      "Dros",
+      "Dros.",
+      "Drosera",
+      "Drosera Rotundifolia",
+      "dros"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Dulcamara": {
+    "aliases": [
+      "DULCAMARA",
+      "Dulc",
+      "Dulc.",
+      "Dulcamara",
+      "dulc"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Elaps Corallinus": {
+    "aliases": [
+      "ELAPS CORALLINUS",
+      "Elaps",
+      "Elaps Corallinus",
+      "Elaps.",
+      "elaps"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Elaterium": {
+    "aliases": [
+      "ELATERIUM OFFICINARUM",
+      "Elat",
+      "Elat.",
+      "Elaterium",
+      "Elaterium Officinarum",
+      "elat"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Equisetum Hyemale": {
+    "aliases": [
+      "EQUISETUM HYEMALE",
+      "Equis",
+      "Equis.",
+      "Equisetum",
+      "Equisetum Hyemale",
+      "equis"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Erigeron": {
+    "aliases": [
+      "ERIGERON CANADENSE",
+      "Erig",
+      "Erig.",
+      "Erigeron",
+      "Erigeron Canadense",
+      "erig"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Eryngium Aquaticum": {
+    "aliases": [
+      "ERYNGIUM AQUATICUM",
+      "Ery-a",
+      "Ery. a.",
+      "Eryngium Aquaticum",
+      "ery-a"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Eucalyptus Globulus": {
+    "aliases": [
+      "EUCALYPTUS GLOBULUS",
+      "Eucal",
+      "Eucal.",
+      "Eucalyptus",
+      "Eucalyptus Globulus",
+      "eucal"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Eupatorium Perfoliatum": {
+    "aliases": [
+      "EUPATORIUM PERFOLIATUM",
+      "Eup-per",
+      "Eup. per.",
+      "Eupatorium Perfoliatum",
+      "Eupatorium perfoliatum",
+      "eup-per"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Eupatorium Purpureum": {
+    "aliases": [
+      "EUPATORIUM PURPUREUM",
+      "Eup-pur",
+      "Eup. pur.",
+      "Eupatorium Purpureum",
+      "eup-pur"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Euphorbium": {
+    "aliases": [
+      "EUPHORBIUM OFFICINARUM",
+      "Euph",
+      "Euph.",
+      "Euphorbium",
+      "Euphorbium Officinarum"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Euphrasia": {
+    "aliases": [
+      "EUPHRASIA OFFICINALIS",
+      "Euphr",
+      "Euphr.",
+      "Euphrasia",
+      "Euphrasia Officinalis",
+      "euphr"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ferrum": {
+    "aliases": [
+      "FERRUM METALLICUM",
+      "Ferr",
+      "Ferr.",
+      "Ferrum",
+      "Ferrum Metallicum",
+      "Ferrum met",
+      "Ferrum metal",
+      "ferr"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ferrum Iodatum": {
+    "aliases": [
+      "FERRUM IODATUM",
+      "Ferr-i",
+      "Ferr. i.",
+      "Ferrum Iodatum",
+      "ferr-i"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ferrum Muriaticum": {
+    "aliases": [
+      "Ferr-m",
+      "Ferr-ma",
+      "Ferr. m.",
+      "Ferrum Muriaticum",
+      "ferr-m",
+      "ferr-ma"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ferrum Phosphoricum": {
+    "aliases": [
+      "FERRUM PHOSPHORICUM",
+      "Ferr-p",
+      "Ferr. p.",
+      "Ferrum Phosphoricum",
+      "Ferrum Pyrophosphoricum",
+      "Ferrum phos",
+      "ferr-p"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ferrum Sulphuricum": {
+    "aliases": [
+      "Ferr-s",
+      "Ferr. s.",
+      "Ferrum Sulphuricum",
+      "ferr-s"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Filix Mas": {
+    "aliases": [
+      "FILIX MAS",
+      "Fil.",
+      "Filix Mas",
+      "fil"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Fluoricum Acidum": {
+    "aliases": [
+      "FLUORICUM ACIDUM",
+      "Fl-ac",
+      "Fl. ac.",
+      "Fluoricum Acidum",
+      "fl-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Formica Rufa": {
+    "aliases": [
+      "FORMICA RUFA",
+      "Form",
+      "Form.",
+      "Formica",
+      "Formica Rufa",
+      "form"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Gambogia": {
+    "aliases": [
+      "GAMBOGIA",
+      "Gamb",
+      "Gamb.",
+      "Gambogia",
+      "Gummi Gutti",
+      "gamb"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Gelsemium": {
+    "aliases": [
+      "GELSEMIUM SEMPERVIRENS",
+      "Gels",
+      "Gels.",
+      "Gelsemium",
+      "Gelsemium Sempervirens",
+      "gels"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Glonoinum": {
+    "aliases": [
+      "GLONOINUM",
+      "Glon",
+      "Glon.",
+      "Glonoinum",
+      "glon"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Gnaphalium Polycephalum": {
+    "aliases": [
+      "GNAPHALIUM POLYCEPHALUM",
+      "Gnaph",
+      "Gnaph.",
+      "Gnaphalium",
+      "Gnaphalium Polycephalum",
+      "gnaph"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Gossypium Herbaceum": {
+    "aliases": [
+      "GOSSYPIUM HERBACEUM",
+      "Goss",
+      "Goss.",
+      "Gossypium Herbaceum",
+      "goss"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Graphites": {
+    "aliases": [
+      "GRAPHITES",
+      "Graph",
+      "Graph.",
+      "Graphites",
+      "graph"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Gratiola Officinalis": {
+    "aliases": [
+      "GRATIOLA OFFICINALIS",
+      "Grat",
+      "Grat.",
+      "Gratiola",
+      "Gratiola Officinalis",
+      "grat"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Grindelia Robusta": {
+    "aliases": [
+      "GRINDELIA ROBUSTA",
+      "Grin",
+      "Grin.",
+      "Grindelia",
+      "Grindelia Rob",
+      "Grindelia Robusta",
+      "Grindelia robusta",
+      "grin"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Guaiacum": {
+    "aliases": [
+      "GUAJACUM OFFICINALE",
+      "Guaiacum",
+      "Guaj.",
+      "Guajacum Officinale"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Guarana": {
+    "aliases": [
+      "GUARANA",
+      "Guar",
+      "Guar.",
+      "Guarana",
+      "guar"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Guarea Trichilioides": {
+    "aliases": [
+      "GUAREA TRICHILOIDES",
+      "Guare",
+      "Guare.",
+      "Guarea",
+      "Guarea Trichilioides",
+      "guare"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Gymnocladus Canadensis": {
+    "aliases": [
+      "GYMNOCLADUS CANADENSIS",
+      "Gymno.",
+      "Gymnocladus Canadensis"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Hamamelis Virginica": {
+    "aliases": [
+      "HAMAMELIS VIRGINIANA",
+      "Ham",
+      "Ham.",
+      "Hamamelis",
+      "Hamamelis Virginiana",
+      "Hamamelis Virginica",
+      "ham"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Hecla Lava": {
+    "aliases": [
+      "HECLA LAVA",
+      "Hecla",
+      "Hecla Lava",
+      "Hekla Lava",
+      "hecla"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Helleborus": {
+    "aliases": [
+      "HELLEBORUS NIGER",
+      "Hell",
+      "Hell.",
+      "Helleborus",
+      "Helleborus Niger",
+      "Helleborus niger",
+      "hell"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Helonias Dioica": {
+    "aliases": [
+      "HELONIAS DIOICA",
+      "Helon",
+      "Helon.",
+      "Helonias",
+      "Helonias Dioica",
+      "helon"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Hepar Sulph. Calc": {
+    "aliases": [
+      "HEPAR SULPHUR",
+      "Hep",
+      "Hep.",
+      "Hep. sul",
+      "Hepar",
+      "Hepar Sulph. Calc",
+      "Hepar Sulphur",
+      "Hepar Sulphuris",
+      "Hepar Sulphuris Calcareum",
+      "Hepar sul",
+      "Hepar sulph",
+      "Hepar sulphur",
+      "Hepar sulphur. calc",
+      "Hepar sulphuris",
+      "hep"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Hippomanes": {
+    "aliases": [
+      "HIPPOMANES",
+      "Hipp",
+      "Hipp.",
+      "Hippomanes",
+      "hipp"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Hippozaenin": {
+    "aliases": [
+      "HIPPOZAENINUM",
+      "Hippoz",
+      "Hippoz.",
+      "Hippozaenin",
+      "Hippozaeninum",
+      "hippoz"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Hydrastis Canadensis": {
+    "aliases": [
+      "HYDRASTIS CANADENSIS",
+      "Hydr",
+      "Hydr.",
+      "Hydrastis",
+      "Hydrastis Canadensis",
+      "hydr"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Hydrocotyle Asiatica": {
+    "aliases": [
+      "HYDROCOTYLE ASIATICA",
+      "Hydrc",
+      "Hydrc.",
+      "Hydrocotyle Asiatica",
+      "hydrc"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Hydrocyanic Acid": {
+    "aliases": [
+      "HYDROCYANICUM ACIDUM",
+      "Hydr-ac",
+      "Hydr. ac.",
+      "Hydrocyanic Acid",
+      "Hydrocyanicum Acidum",
+      "hydr-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Hyoscyamus Niger": {
+    "aliases": [
+      "HYOSCYAMUS NIGER",
+      "Hyos",
+      "Hyos.",
+      "Hyoscyamus",
+      "Hyoscyamus Niger",
+      "hyos"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Hypericum Perforatum": {
+    "aliases": [
+      "HYPERICUM PERFORATUM",
+      "Hyper",
+      "Hyper.",
+      "Hypericum",
+      "Hypericum Perforatum",
+      "hyper"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Iberis Amara": {
+    "aliases": [
+      "IBERIS AMARA",
+      "Iber.",
+      "Iberis",
+      "Iberis Amara",
+      "iber"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ictodes Foetida": {
+    "aliases": [
+      "ICTODES FOETIDA",
+      "Ictod.",
+      "Ictodes Foetida"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Ignatia": {
+    "aliases": [
+      "IGNATIA AMARA",
+      "Ign",
+      "Ign.",
+      "Ignatia",
+      "Ignatia Amara",
+      "ign"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Illicium Anisatum": {
+    "aliases": [
+      "ANISUM STELLATUM",
+      "Anis. s.",
+      "Anisum",
+      "Anisum Stellatum",
+      "Anisum stellatum",
+      "Illicium Anisatum",
+      "Illicium anisatum"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Indigo": {
+    "aliases": [
+      "INDIGO TINCTORIA",
+      "Indg",
+      "Indg.",
+      "Indigo",
+      "Indigo Tinctoria",
+      "indg"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Indium Metallicum": {
+    "aliases": [
+      "INDIUM METALLICUM",
+      "Ind",
+      "Ind.",
+      "Indium",
+      "Indium Metallicum"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Inula": {
+    "aliases": [
+      "INULA HELENIUM",
+      "Inul",
+      "Inul.",
+      "Inula",
+      "Inula Helenium",
+      "inul"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Iodoformum": {
+    "aliases": [
+      "IODOFORMIUM",
+      "Iodof",
+      "Iodof.",
+      "Iodoformium",
+      "Iodoformum",
+      "iodof"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Iodum": {
+    "aliases": [
+      "IODIUM",
+      "Iod",
+      "Iod.",
+      "Iodium",
+      "Iodium Purum",
+      "Iodum",
+      "iod"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ipecacuanha": {
+    "aliases": [
+      "IPECACUANHA",
+      "Ip",
+      "Ip.",
+      "Ipecacuanha",
+      "ip"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ipomoea": {
+    "aliases": [
+      "Ipom.",
+      "Ipomoea",
+      "ipom"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Iridium": {
+    "aliases": [
+      "IRIDIUM METALLICUM",
+      "Irid.",
+      "Iridium",
+      "Iridium Metallicum"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Iris Versicolor": {
+    "aliases": [
+      "IRIS VERSICOLOR",
+      "Iris",
+      "Iris Versicolor",
+      "Iris versicol",
+      "Iris versicolor",
+      "iris"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Jaborandi": {
+    "aliases": [
+      "JABORANDI",
+      "Jab",
+      "Jab.",
+      "Jaborandi",
+      "jab"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Jacaranda Caroba": {
+    "aliases": [
+      "JACARANDA CAROBA",
+      "Jac-c",
+      "Jac. c.",
+      "Jacaranda Caroba",
+      "jac-c"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Jacea": {
+    "aliases": [
+      "Jac",
+      "Jac.",
+      "Jacea",
+      "VIOLA TRICOLOR",
+      "Viola Tricolor",
+      "jac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Jalapa": {
+    "aliases": [
+      "JALAPA",
+      "Jal",
+      "Jal.",
+      "Jalapa",
+      "jal"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Jambos Eugenia": {
+    "aliases": [
+      "EUGENIA JAMBOS",
+      "Eug",
+      "Eug. j.",
+      "Eugenia Jambos",
+      "Jambos Eugenia",
+      "eug"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Jatropha": {
+    "aliases": [
+      "JATROPHA CURCAS",
+      "Jatr",
+      "Jatr.",
+      "Jatropha",
+      "Jatropha Curcas",
+      "jatr"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Juglans Cinerea": {
+    "aliases": [
+      "JUGLANS CINEREA",
+      "Jug-c",
+      "Jug. c.",
+      "Juglans Cinerea",
+      "jug-c"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kali Arsenicosum": {
+    "aliases": [
+      "KALIUM ARSENICOSUM",
+      "Kali Arsenicosum",
+      "Kali-ar",
+      "Kali ar.",
+      "kali-a",
+      "kali-ar"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kali Bichromicum": {
+    "aliases": [
+      "KALIUM BICHROMICUM",
+      "Kali Bichromicum",
+      "Kali bi",
+      "Kali bich",
+      "Kali bichrom",
+      "Kali bichromicum",
+      "Kali-bi",
+      "Kali bi.",
+      "kali-bi"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kali Bromatum": {
+    "aliases": [
+      "KALIUM BROMATUM",
+      "Kali Bromatum",
+      "Kali bromatum",
+      "Kali-br",
+      "Kali br.",
+      "kali-br"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kali Carbonicum": {
+    "aliases": [
+      "KALIUM CARBONICUM",
+      "Kali Carbonicum",
+      "Kali c",
+      "Kali carb",
+      "Kali carbonicum",
+      "Kali-c",
+      "Kali c.",
+      "kali-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kali Cyanatum": {
+    "aliases": [
+      "KALIUM CYANATUM",
+      "Kali Cyanatum",
+      "Kali-cy",
+      "Kali cy.",
+      "kali-cy"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kali Ferrocyanatum": {
+    "aliases": [
+      "Kali Ferrocyanatum",
+      "Kali-fer",
+      "Kali fcy.",
+      "kali-fer"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kali Iodatum": {
+    "aliases": [
+      "KALIUM IODATUM",
+      "Kali Hydriodicum",
+      "Kali Hydroiodicum",
+      "Kali Iodatum",
+      "Kali hyd",
+      "Kali hydroiod",
+      "Kali hydroiodicum",
+      "Kali iod",
+      "Kali iodatum",
+      "Kali-i",
+      "Kali. hydroiod",
+      "Kali hydr. Kali i.",
+      "kali-i"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kali Muriaticum": {
+    "aliases": [
+      "KALIUM MURIATICUM",
+      "Kali Muriaticum",
+      "Kali mur",
+      "Kali muriaticum",
+      "Kali-m",
+      "Kali m.",
+      "kali-m"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kali Nitricum": {
+    "aliases": [
+      "KALIUM NITRICUM",
+      "Kali Citricum",
+      "Kali Nitricum",
+      "Kali nit",
+      "Kali-n",
+      "Kali n.",
+      "Nitrum",
+      "kali-n"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kali Permanganicum": {
+    "aliases": [
+      "Kali Permanganicum",
+      "Kali perm."
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Kali Phosphoricum": {
+    "aliases": [
+      "KALIUM PHOSPHORICUM",
+      "Kali Phosphoricum",
+      "Kali-p",
+      "Kali p.",
+      "kali-p"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kali Sulphuricum": {
+    "aliases": [
+      "KALIUM SULPHURICUM",
+      "Kali Sulphuricum",
+      "Kali sulph",
+      "Kali sulphuricum",
+      "Kali-s",
+      "Kalis",
+      "Kali s.",
+      "kali-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kalmia Latifolia": {
+    "aliases": [
+      "KALMIA LATIFOLIA",
+      "Kalm",
+      "Kalm.",
+      "Kalmia",
+      "Kalmia Latifolia",
+      "Kalmia lat",
+      "kalm"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Kaolin": {
+    "aliases": [
+      "ALUMINA SILICATA",
+      "Alum-sil",
+      "Alum. s.",
+      "Alumina Silicata",
+      "Kaolin",
+      "alum-sil"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kobaltum": {
+    "aliases": [
+      "COBALTUM METALLICUM",
+      "Cob",
+      "Cob.",
+      "Cobaltum",
+      "Cobaltum Metallicum",
+      "Kobaltum",
+      "cob"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Kreosotum": {
+    "aliases": [
+      "Creos.",
+      "Creosote",
+      "KREOSOTUM",
+      "Kreosotum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Lac Caninum": {
+    "aliases": [
+      "LAC CANINUM",
+      "Lac Caninum",
+      "Lac can",
+      "Lac caninum",
+      "Lac-c",
+      "Lac c.",
+      "lac-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lac Vaccinum Defloratum": {
+    "aliases": [
+      "LAC VACCINUM DEFLORATUM",
+      "Lac Vaccinum",
+      "Lac Vaccinum Defloratum",
+      "Lac-d",
+      "Lac d.",
+      "lac-d"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Lachesis": {
+    "aliases": [
+      "LACHESIS MUTUS",
+      "Lach",
+      "Lach.",
+      "Lachesis",
+      "Lachesis Mutus",
+      "lach"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lachnanthes Tinctoria": {
+    "aliases": [
+      "LACHNANTHES TINCTORIA",
+      "Lachn",
+      "Lachn.",
+      "Lachnanthes",
+      "Lachnanthes Tinctoria",
+      "lachn"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Lactic Acid": {
+    "aliases": [
+      "Acetic acid",
+      "LACTICUM ACIDUM",
+      "Lac. ac.",
+      "Lact-ac",
+      "Lactic Acid",
+      "Lacticum Acidum",
+      "lact-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lactuca Virosa": {
+    "aliases": [
+      "LACTUCA VIROSA",
+      "Lact",
+      "Lact.",
+      "Lactuca",
+      "Lactuca Virosa",
+      "lact"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Lapis Albus": {
+    "aliases": [
+      "LAPIS ALBUS",
+      "Lap-a",
+      "Lap. a.",
+      "Lapis Albus",
+      "Lapis albus",
+      "lap-a"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Laurocerasus": {
+    "aliases": [
+      "LAUROCERASUS",
+      "Laur",
+      "Laur.",
+      "Laurocerasus",
+      "laur"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ledum Palustre": {
+    "aliases": [
+      "LEDUM PALUSTRE",
+      "Led",
+      "Led.",
+      "Ledum",
+      "Ledum Palustre",
+      "Ledum pal",
+      "Ledum palustre",
+      "led"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Leptandra": {
+    "aliases": [
+      "LEPTANDRA VIRGINICA",
+      "Lept",
+      "Lept.",
+      "Leptandra",
+      "Leptandra Virginica",
+      "lept"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lilium Tigrinum": {
+    "aliases": [
+      "LILIUM TIGRINUM",
+      "Lil",
+      "Lil-t",
+      "Lil. t.",
+      "Lilium",
+      "Lilium Tigrinum",
+      "Lilium tig",
+      "Lilium tigrinum",
+      "lil-t"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lithium Carbonicum": {
+    "aliases": [
+      "LITHIUM CARBONICUM",
+      "Lith",
+      "Lith. c.",
+      "Lithium Carbonicum",
+      "lith"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lobelia Coerulea": {
+    "aliases": [
+      "Lob.",
+      "Lobelia Coerulea",
+      "Lobelia Syphilitica",
+      "lob-c",
+      "lob-s"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Lobelia Inflata": {
+    "aliases": [
+      "LOBELIA INFLATA",
+      "Lob",
+      "Lob.",
+      "Lobelia Inflata",
+      "lob"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lycopodium": {
+    "aliases": [
+      "LYCOPODIUM CLAVATUM",
+      "Lyc",
+      "Lyc.",
+      "Lycopodium",
+      "Lycopodium Clavatum",
+      "Lycopodium clavatum",
+      "lyc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Lycopus Virginicus": {
+    "aliases": [
+      "LYCOPUS VIRGINICUS",
+      "Lycopus",
+      "Lycopus Virginicus",
+      "Lycps",
+      "Lycps.",
+      "lycps"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Lyssin": {
+    "aliases": [
+      "Hydro.",
+      "Hydrophobinum",
+      "LYSSINUM",
+      "Lyssin",
+      "Lyssinum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Magnesia Carbonica": {
+    "aliases": [
+      "Mag-c",
+      "Mag. c.",
+      "Magnesia Carbonica",
+      "Magnesia carb",
+      "mag-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Magnesia Muriatica": {
+    "aliases": [
+      "Mag-m",
+      "Mag. m.",
+      "Magnesia Muriatica",
+      "Magnesia mur",
+      "Magnesia muriatica",
+      "Mang-m",
+      "mag-m",
+      "mang-m"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Magnesia Phosphorica": {
+    "aliases": [
+      "Mag-p",
+      "Mag. p.",
+      "Magnesia Phosphorica",
+      "Magnesia phos",
+      "Magnesia phosphorica",
+      "mag-p"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Magnesia Sulphurica": {
+    "aliases": [
+      "Mag-s",
+      "Mag. s.",
+      "Magnesia Sulphurica",
+      "mag-s"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mancinella": {
+    "aliases": [
+      "MANCINELLA",
+      "Manc",
+      "Manc.",
+      "Mancinella",
+      "manc"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Manganum": {
+    "aliases": [
+      "MANGANUM ACETICUM",
+      "Mang",
+      "Mang.",
+      "Manganum",
+      "Manganum Aceticum",
+      "Manganum acet",
+      "Manganum aceticum",
+      "mang"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Marum Verum": {
+    "aliases": [
+      "Mar. v.",
+      "Marum Verum",
+      "Teucrium"
+    ],
+    "sources": [
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Medorrhinum": {
+    "aliases": [
+      "MEDORRHINUM",
+      "Med",
+      "Med.",
+      "Medorrhinum",
+      "med"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Melilotus": {
+    "aliases": [
+      "MELILOTUS OFFICINALIS",
+      "Meli",
+      "Meli.",
+      "Melilotus",
+      "Melilotus Officinalis",
+      "meli"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Menyanthes Trifoliata": {
+    "aliases": [
+      "MENYANTHES TRIFOLIATA",
+      "Meny",
+      "Meny.",
+      "Menyanthes",
+      "Menyanthes Trifoliata",
+      "meny"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Mephitis Putorius": {
+    "aliases": [
+      "MEPHITIS PUTORIUS",
+      "Meph",
+      "Meph.",
+      "Mephitis",
+      "Mephitis Putorius",
+      "meph"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mercurialis Perennis": {
+    "aliases": [
+      "MERCURIALIS PERENNIS",
+      "Mercurialis Perennis",
+      "Merl",
+      "Merl.",
+      "merl"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mercurius": {
+    "aliases": [
+      "MERCURIUS SOLUBILIS",
+      "Merc",
+      "Merc.",
+      "Merc. sol",
+      "Mercurius",
+      "Mercurius Solubilis et Vivus",
+      "Mercurius solubilis",
+      "merc"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Mercurius Corrosivus": {
+    "aliases": [
+      "MERCURIUS CORROSIVUS",
+      "Merc-ac",
+      "Merc-c",
+      "Merc. cor",
+      "Merc. c.",
+      "Mercurius Corrosivus",
+      "Mercurius corrosivus",
+      "merc-ac",
+      "merc-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Mercurius Cyanatus": {
+    "aliases": [
+      "MERCURIUS CYANATUS",
+      "Merc-cy",
+      "Merc. cy.",
+      "Mercurius Cyanatus",
+      "merc-cy"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Mercurius Dulcis": {
+    "aliases": [
+      "MERCURIUS DULCIS",
+      "Merc-d",
+      "Merc. d.",
+      "Mercurius Dulc",
+      "Mercurius Dulcis",
+      "merc-d"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Mercurius Iodatus Flavus": {
+    "aliases": [
+      "MERCURIUS IODATUS FLAVUS",
+      "Merc-i-f",
+      "Merc. i. f.",
+      "Mercurius Iodatus Flavus",
+      "merc-i-f"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mercurius Iodatus Ruber": {
+    "aliases": [
+      "MERCURIUS IODATUS RUBER",
+      "Merc-i-r",
+      "Merc. i. r.",
+      "Mercurius Iodatus Ruber",
+      "merc-i-r"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mercurius Sulphuricus": {
+    "aliases": [
+      "Merc-sul",
+      "Merc. sul.",
+      "Mercurius Sulphuricus",
+      "Turpethum",
+      "merc-sul"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mezereum": {
+    "aliases": [
+      "MEZEREUM",
+      "Mez",
+      "Mez.",
+      "Mezereum",
+      "mez"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Millefolium": {
+    "aliases": [
+      "MILLEFOLIUM",
+      "Mill",
+      "Mill.",
+      "Millefolium",
+      "mill"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Mitchella Repens": {
+    "aliases": [
+      "MITCHELLA REPENS",
+      "Mit",
+      "Mit.",
+      "Mitchella",
+      "Mitchella Repens",
+      "mit"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Morphinum Sulphuricum": {
+    "aliases": [
+      "MORPHINUM",
+      "Morph",
+      "Morph.",
+      "Morphinum",
+      "Morphinum Sulphuricum",
+      "morph"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Moschus": {
+    "aliases": [
+      "MOSCHUS",
+      "Mosch",
+      "Mosch.",
+      "Moschus",
+      "mosch"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Murex Purpurea": {
+    "aliases": [
+      "MUREX PURPUREA",
+      "Murex",
+      "Murex Purpurea",
+      "Murex purpurea",
+      "Murx",
+      "Murx.",
+      "murx"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Muriaticum Acidum": {
+    "aliases": [
+      "MURIATICUM ACIDUM",
+      "Mur-ac",
+      "Mur. ac.",
+      "Muriaticum Acidum",
+      "mur-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Mygale": {
+    "aliases": [
+      "MYGALE LASIODORA",
+      "Mygal",
+      "Mygal.",
+      "Mygale",
+      "Mygale Lasiodora",
+      "mygal"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Myosotis": {
+    "aliases": [
+      "Myos. a.",
+      "Myosotis",
+      "Myosotis Arvensis",
+      "myos"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Myrica Cerifera": {
+    "aliases": [
+      "MYRICA CERIFERA",
+      "Myric",
+      "Myric.",
+      "Myrica Cerifera",
+      "myric"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Myrtus Communis": {
+    "aliases": [
+      "MYRTUS COMMUNIS",
+      "Myrt. c.",
+      "Myrtus",
+      "Myrtus Communis",
+      "Myrtus com",
+      "Myrtus communis",
+      "myrt"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Naja Tripudians": {
+    "aliases": [
+      "NAJA TRIPUDIANS",
+      "Naja",
+      "Naja Tripudians",
+      "naja"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Natrum Arsenicatum": {
+    "aliases": [
+      "Nat-a",
+      "Nat. ar.",
+      "Natrum Arsenicatum",
+      "nat-a"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Natrum Carbonicum": {
+    "aliases": [
+      "NATRIUM CARBONICUM",
+      "Nat carb",
+      "Nat-c",
+      "Nat. c",
+      "Nat. carb",
+      "Nat. c.",
+      "Natrum Carbonicum",
+      "Natrum carb",
+      "Natrum carbonicum",
+      "nat-c"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Natrum Muriaticum": {
+    "aliases": [
+      "NATRIUM MURIATICUM",
+      "Nat-m",
+      "Nat. m",
+      "Nat. mur",
+      "Nat. m.",
+      "Natrum Muriaticum",
+      "Natrum m",
+      "Natrum mur",
+      "Natrum muriaticum",
+      "nat-m"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Natrum Phosphoricum": {
+    "aliases": [
+      "NATRIUM PHOSPHORICUM",
+      "Nat-p",
+      "Nat. p.",
+      "Natrum Phos",
+      "Natrum Phosphoricum",
+      "Natrum phos",
+      "nat-p"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Natrum Sulphuricum": {
+    "aliases": [
+      "NATRIUM SULPHURICUM",
+      "Nat-s",
+      "Nat. s.",
+      "Natrum Sulphuricum",
+      "Natrum sulph",
+      "Natrum sulphuricum",
+      "nat-s"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Niccolum": {
+    "aliases": [
+      "Nicc",
+      "Nicc.",
+      "Niccolum",
+      "nicc"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Nitri Spiritus Dulcis": {
+    "aliases": [
+      "NITRI SPIRITUS DULCIS",
+      "Nit. s. d.",
+      "Nitri Spiritus Dulcis",
+      "nit-s-d"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Nitric Acid": {
+    "aliases": [
+      "NITRICUM ACIDUM",
+      "Nit-ac",
+      "Nit. ac",
+      "Nit. ac.",
+      "Nitric Acid",
+      "Nitric Acidum",
+      "Nitric ac",
+      "Nitric acid",
+      "Nitricum Acidum",
+      "nit-ac"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Nuphar Luteum": {
+    "aliases": [
+      "NUPHAR LUTEUM",
+      "Nuph",
+      "Nuph.",
+      "Nuphar",
+      "Nuphar Luteum",
+      "nuph"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Nux Moschata": {
+    "aliases": [
+      "NUX MOSCHATA",
+      "Nux Moschata",
+      "Nux m",
+      "Nux mos",
+      "Nux mosch",
+      "Nux moschata",
+      "Nux-m",
+      "Nux. m.",
+      "nux-m"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Nux Vomica": {
+    "aliases": [
+      "NUX VOMICA",
+      "Nux Vomica",
+      "Nux vom",
+      "Nux vomica",
+      "Nux-v",
+      "Nux. v.",
+      "nux-v"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "OEnanthe Crocata": {
+    "aliases": [
+      "OENANTHE CROCATA",
+      "OEna.",
+      "OEnanthe Crocata",
+      "Oena",
+      "oena"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Oleander": {
+    "aliases": [
+      "OLEANDER",
+      "Oleander",
+      "Olnd",
+      "Olnd.",
+      "olnd"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Oleum Animale": {
+    "aliases": [
+      "OLEUM ANIMALE AETHEREUM",
+      "Ol-an",
+      "Ol. an.",
+      "Oleum Animale",
+      "Oleum Animale AEthereum",
+      "ol-an"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Oleum Cajeputi": {
+    "aliases": [
+      "Cajeputi",
+      "Ol.\n c.",
+      "Oleum Cajeputi"
+    ],
+    "sources": [
+      "hering"
+    ]
+  },
+  "Oleum Jecoris Aselli": {
+    "aliases": [
+      "OLEUM JECORIS ASELLI",
+      "Ol-j",
+      "Ol. j.",
+      "Oleum Jecoris Aselli",
+      "ol-j"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Opium": {
+    "aliases": [
+      "OPIUM",
+      "Op",
+      "Op.",
+      "Opium",
+      "op"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Origanum": {
+    "aliases": [
+      "ORIGANUM MAJORANA",
+      "Orig",
+      "Orig.",
+      "Origanum",
+      "Origanum Majorana",
+      "orig"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Osmium": {
+    "aliases": [
+      "OSMIUM",
+      "Osm",
+      "Osm.",
+      "Osmium",
+      "Osmium Metallicum",
+      "osm"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Oxalicum Acidum": {
+    "aliases": [
+      "OXALICUM ACIDUM",
+      "Ox-ac",
+      "Ox. ac.",
+      "Oxalicum Acidum",
+      "ox-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Paeonia": {
+    "aliases": [
+      "PAEONIA OFFICINALIS",
+      "Paeon",
+      "Paeon.",
+      "Paeonia",
+      "Paeonia Officinalis",
+      "paeon"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Palladium": {
+    "aliases": [
+      "PALLADIUM METALLICUM",
+      "Pall",
+      "Pall.",
+      "Palladium",
+      "Palladium Metallicum",
+      "pall"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Pareira Brava": {
+    "aliases": [
+      "PAREIRA BRAVA",
+      "Pareir",
+      "Pareir.",
+      "Pareira",
+      "Pareira Brava",
+      "pareir"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Paris Quadrifolia": {
+    "aliases": [
+      "PARIS QUADRIFOLIA",
+      "Par",
+      "Par.",
+      "Paris",
+      "Paris Quadrifolia",
+      "par"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Petroleum": {
+    "aliases": [
+      "PETROLEUM",
+      "Petr",
+      "Petr.",
+      "Petroleum",
+      "petr"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Petroselinum": {
+    "aliases": [
+      "PETROSELINUM SATIVUM",
+      "Petros",
+      "Petros.",
+      "Petroselinum",
+      "Petroselinum Sativum",
+      "petros"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Phellandrium": {
+    "aliases": [
+      "PHELLANDRIUM AQUATICUM",
+      "Phel",
+      "Phel.",
+      "Phellandrium",
+      "Phellandrium Aquaticum",
+      "phel"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Phosphoricum Acidum": {
+    "aliases": [
+      "PHOSPHORICUM ACIDUM",
+      "Ph-ac",
+      "Ph. ac.",
+      "Phosphoricum Acidum",
+      "ph-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Phosphorus": {
+    "aliases": [
+      "PHOSPHORUS",
+      "Phos",
+      "Phos.",
+      "Phosphorus",
+      "phos"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Physostigma": {
+    "aliases": [
+      "PHYSOSTIGMA VENENOSUM",
+      "Physostigma",
+      "Physostigma Venenosum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Phytolacca": {
+    "aliases": [
+      "PHYTOLACCA DECANDRA",
+      "Phyt",
+      "Phyt.",
+      "Phytolacca",
+      "Phytolacca Decandra",
+      "Phytolacca decandra",
+      "phyt"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Picric Acid": {
+    "aliases": [
+      "PICRICUM ACIDUM",
+      "Pic-ac",
+      "Pic. ac.",
+      "Picric Acid",
+      "Picric acid",
+      "Picricum Acidum",
+      "pic-ac"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Pix Liquida": {
+    "aliases": [
+      "PIX LIQUIDA",
+      "Pix",
+      "Pix Liquida",
+      "Pix liquida"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Plantago Major": {
+    "aliases": [
+      "PLANTAGO MAJOR",
+      "Plan",
+      "Plan.",
+      "Plantago",
+      "Plantago Major",
+      "plan"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Platinum": {
+    "aliases": [
+      "PLATINUM METALLICUM",
+      "Plat",
+      "Plat.",
+      "Platinum",
+      "Platinum Metallicum",
+      "plat",
+      "plat-m"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Plumbum": {
+    "aliases": [
+      "PLUMBUM METALLICUM",
+      "Plb",
+      "Plb.",
+      "Plumbum",
+      "Plumbum Metallicum",
+      "plb"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Podophyllum Peltatum": {
+    "aliases": [
+      "PODOPHYLLINUM",
+      "Podo",
+      "Podo.",
+      "Podophyllum",
+      "Podophyllum Peltatum",
+      "podo"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Polygonum": {
+    "aliases": [
+      "POLYGONUM HYDROPIPEROIDES",
+      "Polyg-h",
+      "Polyg. h.",
+      "Polygonum",
+      "Polygonum Hydropiperoides",
+      "polyg-h"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Polyporus Officinalis": {
+    "aliases": [
+      "BOLETUS LARICIS",
+      "Bol",
+      "Bol. l.",
+      "Boletus Laricis",
+      "Polyporus Officinalis",
+      "bol"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Prunus Spinosa": {
+    "aliases": [
+      "PRUNUS SPINOSA",
+      "Prun-s",
+      "Prun.",
+      "Prunus Spinosa",
+      "prun-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Psorinum": {
+    "aliases": [
+      "PSORINUM",
+      "Psor",
+      "Psor.",
+      "Psorinum",
+      "psor"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ptelea Trifoliata": {
+    "aliases": [
+      "PTELEA TRIFOLIATA",
+      "Ptel",
+      "Ptel.",
+      "Ptelea",
+      "Ptelea Trifoliata",
+      "ptel"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Pulsatilla": {
+    "aliases": [
+      "PULSATILLA PRATENSIS",
+      "Puls",
+      "Puls.",
+      "Pulsatilla",
+      "Pulsatilla Pratensis",
+      "puls"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ranunculus Bulbosus": {
+    "aliases": [
+      "RANUNCULUS BULBOSUS",
+      "Ran-b",
+      "Ran. b.",
+      "Ranunculus Bulbosus",
+      "Ranunculus bulb",
+      "ran-b"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ranunculus Sceleratus": {
+    "aliases": [
+      "RANUNCULUS SCELERATUS",
+      "Ran-s",
+      "Ran. s.",
+      "Ranunculus Sceleratus",
+      "aran-s",
+      "ran-s"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Raphanus Sativus": {
+    "aliases": [
+      "RAPHANUS SATIVUS",
+      "Raph",
+      "Raph.",
+      "Raphanus",
+      "Raphanus Sativus",
+      "raph"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ratanhia": {
+    "aliases": [
+      "RATANHIA PERUVIANA",
+      "Rat",
+      "Rat.",
+      "Ratanhia",
+      "Ratanhia Peruviana",
+      "rat"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Rheum": {
+    "aliases": [
+      "RHEUM PALMATUM",
+      "Rheum",
+      "Rheum Palmatum",
+      "rheum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Rhododendron": {
+    "aliases": [
+      "Rhod",
+      "Rhod.",
+      "Rhododendron",
+      "Rhododendron Chrysanthum",
+      "rhod"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Rhus Toxicodendron": {
+    "aliases": [
+      "RHUS TOXICODENDRON",
+      "Rhus Toxicodendron",
+      "Rhus tox",
+      "Rhus toxic",
+      "Rhus toxicod",
+      "Rhus toxicodendron",
+      "Rhus-t",
+      "Rhus t.",
+      "rhus-t"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Rhus Venenata": {
+    "aliases": [
+      "RHUS VENENATA",
+      "Rhus Venenata",
+      "Rhus Vernix",
+      "Rhus-v",
+      "Rhus v.",
+      "rhus-v"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Robinia": {
+    "aliases": [
+      "Rob",
+      "Rob.",
+      "Robinia",
+      "rob"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Rumex Crispus": {
+    "aliases": [
+      "RUMEX CRISPUS",
+      "Rumex",
+      "Rumex Crispus",
+      "Rumx",
+      "Rumx.",
+      "rumx"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Ruta Graveolens": {
+    "aliases": [
+      "RUTA GRAVEOLENS",
+      "Ruta",
+      "Ruta Graveolens",
+      "Ruta graveolens",
+      "ruta"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sabadilla": {
+    "aliases": [
+      "SABADILLA",
+      "Sabad",
+      "Sabad.",
+      "Sabadilla",
+      "sabad"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sabina": {
+    "aliases": [
+      "SABINA",
+      "Sabin",
+      "Sabin.",
+      "Sabina",
+      "sabin"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Salicylicum Acidum": {
+    "aliases": [
+      "SALICYLICUM ACIDUM",
+      "Sal-ac",
+      "Sal. ac.",
+      "Salicylicum Acidum",
+      "sal-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Sambucus Nigra": {
+    "aliases": [
+      "SAMBUCUS NIGRA",
+      "Samb",
+      "Samb.",
+      "Sambucus",
+      "Sambucus Nigra",
+      "samb"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sanguinaria Canadensis": {
+    "aliases": [
+      "SANGUINARIA CANADENSIS",
+      "Sang",
+      "Sang.",
+      "Sanguinaria",
+      "Sanguinaria Canadensis",
+      "sang"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sarracenia Purpurea": {
+    "aliases": [
+      "SARRACENIA PURPUREA",
+      "Sarr",
+      "Sarr.",
+      "Sarracenia",
+      "Sarracenia Purpurea",
+      "sarr"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Sarsaparilla": {
+    "aliases": [
+      "SARSAPARILLA OFFICINALIS",
+      "Sars",
+      "Sars.",
+      "Sarsaparilla",
+      "Sarsaparilla Officinalis",
+      "sars"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Secale Cornutum": {
+    "aliases": [
+      "SECALE CORNUTUM",
+      "Sec",
+      "Sec.",
+      "Secale",
+      "Secale Cornutum",
+      "Secale cornutum",
+      "sec"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Selenium": {
+    "aliases": [
+      "SELENIUM METALLICUM",
+      "Sel",
+      "Sel.",
+      "Selenium",
+      "Selenium Metallicum",
+      "sel"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Senecio": {
+    "aliases": [
+      "SENECIO AUREUS",
+      "Senec",
+      "Senec.",
+      "Senecio",
+      "Senecio Aureus",
+      "senec"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Senega": {
+    "aliases": [
+      "SENEGA",
+      "Seneg",
+      "Seneg.",
+      "Senega",
+      "seneg"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sepia": {
+    "aliases": [
+      "SEPIA OFFICINALIS",
+      "Sep",
+      "Sep.",
+      "Sepia",
+      "Sepia Officinalis",
+      "sep"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Silicea": {
+    "aliases": [
+      "SILICEA TERRA",
+      "Sil",
+      "Sil.",
+      "Silica",
+      "Silicea",
+      "Silicea Terra",
+      "sil"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sinapis Alba": {
+    "aliases": [
+      "Sin-a",
+      "Sin. a.",
+      "Sinapis Alba",
+      "sin-a"
+    ],
+    "sources": [
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Sinapis Nigra": {
+    "aliases": [
+      "SINAPIS NIGRA",
+      "Sin-n",
+      "Sin. n.",
+      "Sinapis Nigra",
+      "sin-n"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Spigelia": {
+    "aliases": [
+      "SPIGELIA ANTHELMIA",
+      "Spig",
+      "Spig.",
+      "Spigelia",
+      "Spigelia Anthelmia",
+      "Spigelia Anthelmintica",
+      "spig"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Spongia Tosta": {
+    "aliases": [
+      "SPONGIA TOSTA",
+      "Spong",
+      "Spong.",
+      "Spongia",
+      "Spongia Tosta",
+      "spong"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Squilla": {
+    "aliases": [
+      "SQUILLA MARITIMA",
+      "Squil",
+      "Squil.",
+      "Squilla",
+      "Squilla Maritima",
+      "squil"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Stannum": {
+    "aliases": [
+      "STANNUM METALLICUM",
+      "Stann",
+      "Stann.",
+      "Stannum",
+      "Stannum Metallicum",
+      "stann"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Staphisagria": {
+    "aliases": [
+      "STAPHYSAGRIA",
+      "Staph",
+      "Staph.",
+      "Staphisagria",
+      "Staphysagria",
+      "staph"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sticta Pulmonaria": {
+    "aliases": [
+      "STICTA PULMONARIA",
+      "Stict",
+      "Stict.",
+      "Sticta",
+      "Sticta Pulmonaria",
+      "Sticta pulm",
+      "stict"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Stillingia Sylvatica": {
+    "aliases": [
+      "STILLINGIA SILVATICA",
+      "Still",
+      "Still.",
+      "Stillingia",
+      "Stillingia Sylvatica",
+      "still"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Stramonium": {
+    "aliases": [
+      "STRAMONIUM",
+      "Stram",
+      "Stram.",
+      "Stramonium",
+      "stram"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Strontiana Carbonica": {
+    "aliases": [
+      "Stront",
+      "Stront. c.",
+      "Strontiana Carbonica",
+      "stront"
+    ],
+    "sources": [
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Sulphur": {
+    "aliases": [
+      "SULPHUR",
+      "Sulph",
+      "Sulph.",
+      "Sulphur",
+      "Suphur",
+      "sulph"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Sulphuricum Acidum": {
+    "aliases": [
+      "SULPHURICUM ACIDUM",
+      "Sul-ac",
+      "Sul. ac.",
+      "Sulphuricum Acidum",
+      "sul-ac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Sumbul": {
+    "aliases": [
+      "SUMBULUS MOSCHATUS",
+      "Sumb",
+      "Sumb.",
+      "Sumbul",
+      "Sumbulus Moschatus",
+      "sumb"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Symphytum": {
+    "aliases": [
+      "SYMPHYTUM OFFICINALE",
+      "Symph",
+      "Symph.",
+      "Symphytum",
+      "Symphytum Officinale",
+      "symph"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Syphilinum": {
+    "aliases": [
+      "Lues.",
+      "Luesinum",
+      "SYPHILINUM",
+      "Syphilinum",
+      "Syphillinum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "nash_leaders"
+    ]
+  },
+  "Tabacum": {
+    "aliases": [
+      "TABACUM",
+      "Tab",
+      "Tab.",
+      "Tabacum",
+      "tab"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Taraxacum": {
+    "aliases": [
+      "TARAXACUM OFFICINALE",
+      "Tarax",
+      "Tarax.",
+      "Taraxacum",
+      "Taraxacum Officinale",
+      "tarax"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Tarentula": {
+    "aliases": [
+      "TARENTULA HISPANICA",
+      "Tarantula Hispania",
+      "Tarent",
+      "Tarent.",
+      "Tarentula",
+      "Tarentula Hispanica",
+      "tarent"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Tellurium": {
+    "aliases": [
+      "TELLURIUM METALLICUM",
+      "Tell",
+      "Tell.",
+      "Tellurium",
+      "Tellurium Metallicum",
+      "tell"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Terebinthina": {
+    "aliases": [
+      "TEREBINTHINIAE OLEUM",
+      "Ter",
+      "Ter.",
+      "Terebinthina",
+      "Terebinthiniae Oleum",
+      "ter"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Theridion Curassavicum": {
+    "aliases": [
+      "THERIDION CURASSAVICUM",
+      "Ther",
+      "Ther.",
+      "Theridion",
+      "Theridion Curassavicum",
+      "Theridion curassavicum",
+      "ther"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Thlaspi Bursa Pastoris": {
+    "aliases": [
+      "Bur. p.",
+      "Bursa Pastoris",
+      "THLASPI BURSA PASTORIS",
+      "Thlaspi",
+      "Thlaspi Bursa Pastoris",
+      "Thlaspi bursa pastoris",
+      "thlaspi"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Thuja": {
+    "aliases": [
+      "THUJA OCCIDENTALIS",
+      "Thuj",
+      "Thuj.",
+      "Thuja",
+      "Thuja Occidentalis",
+      "thuj"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Trillium Pendulum": {
+    "aliases": [
+      "TRILLIUM PENDULUM",
+      "Tril",
+      "Tril.",
+      "Trillium",
+      "Trillium Pendulum",
+      "tril"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Trombidium": {
+    "aliases": [
+      "TROMBIDIUM MUSCAE DOMESTICAE",
+      "Trom",
+      "Trom.",
+      "Trombidium",
+      "Trombidium Muscae Domesticae",
+      "trom"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Tuberculinum": {
+    "aliases": [
+      "TUBERCULINUM",
+      "Tub",
+      "Tub.",
+      "Tuberculinum",
+      "Tuberculinum Bovinum",
+      "tub"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Uranium Nitricum": {
+    "aliases": [
+      "URANIUM NITRICUM",
+      "Uran",
+      "Uran. n.",
+      "Uranium Nitricum",
+      "uran"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Urtica Urens": {
+    "aliases": [
+      "URTICA URENS",
+      "Urt-u",
+      "Urt. u.",
+      "Urtica Urens",
+      "urt-u"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Ustilago": {
+    "aliases": [
+      "USTILAGO MAYDIS",
+      "Ust",
+      "Ust.",
+      "Ustilago",
+      "Ustilago Maydis",
+      "ust"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Uva Ursi": {
+    "aliases": [
+      "UVA URSI",
+      "Uva",
+      "Uva Ursi",
+      "Uva-Ursi",
+      "uva"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Vaccininum and Variolinum": {
+    "aliases": [
+      "VACCININUM",
+      "Vac.",
+      "Vaccininum",
+      "Vaccininum and Variolinum",
+      "vac"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Valeriana": {
+    "aliases": [
+      "VALERIANA OFFICINALIS",
+      "Valer",
+      "Valer.",
+      "Valerian",
+      "Valeriana",
+      "Valeriana Officinalis",
+      "valer"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Variolinum and Vaccininum": {
+    "aliases": [
+      "VARIOLINUM",
+      "Var.",
+      "Variolinum",
+      "Variolinum and Vaccininum"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering"
+    ]
+  },
+  "Veratrum Album": {
+    "aliases": [
+      "VERATRUM ALBUM",
+      "Verat",
+      "Verat.",
+      "Verat. alb",
+      "Verat. album",
+      "Veratrum Album",
+      "Veratrum alb",
+      "Veratrum album",
+      "verat"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Veratrum Viride": {
+    "aliases": [
+      "VERATRUM VIRIDE",
+      "Verat-v",
+      "Verat. v.",
+      "Veratrum Viride",
+      "Veratrum vir",
+      "Veratrum viride",
+      "verat-v"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Verbascum Thapsus": {
+    "aliases": [
+      "VERBASCUM THAPSUS",
+      "Verb",
+      "Verb.",
+      "Verbascum",
+      "Verbascum Thapsus",
+      "verb"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Vespa": {
+    "aliases": [
+      "VESPA CRABRO",
+      "Vesp",
+      "Vesp.",
+      "Vespa",
+      "Vespa Crabro",
+      "vesp"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Viburnum Opulus": {
+    "aliases": [
+      "VIBURNUM OPULUS",
+      "Vib",
+      "Vib.",
+      "Viburnum",
+      "Viburnum Opulus",
+      "vib"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Vinca Minor": {
+    "aliases": [
+      "VINCA MINOR",
+      "Vinc",
+      "Vinc.",
+      "Vinca Minor",
+      "vinc"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Viola Odorata": {
+    "aliases": [
+      "VIOLA ODORATA",
+      "Viol-o",
+      "Viol. o.",
+      "Viola Odorata",
+      "viol-o"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Xanthoxylum": {
+    "aliases": [
+      "XANTOXYLUM FRAXINEUM",
+      "Xan",
+      "Xan.",
+      "Xanthoxylum",
+      "Xanthoxylum Fraxineum",
+      "xan"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Zincum": {
+    "aliases": [
+      "ZINCUM METALLICUM",
+      "Zinc",
+      "Zinc met",
+      "Zinc-m",
+      "Zinc.",
+      "Zinc. met",
+      "Zincum",
+      "Zincum Metallicum",
+      "Zincum metallicum",
+      "zinc",
+      "zinc-m"
+    ],
+    "sources": [
+      "allen_keynotes",
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory",
+      "nash_leaders"
+    ]
+  },
+  "Zingiber": {
+    "aliases": [
+      "ZINGIBER OFFICINALE",
+      "Zing",
+      "Zing.",
+      "Zingiber",
+      "Zingiber Officinale",
+      "zing"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  },
+  "Zizia": {
+    "aliases": [
+      "ZIZIA AUREA",
+      "Ziz.",
+      "Zizia",
+      "Zizia Aurea",
+      "ziz"
+    ],
+    "sources": [
+      "boericke_materia_medica",
+      "clarke_dictionary",
+      "hering",
+      "kent_repertory"
+    ]
+  }
+}

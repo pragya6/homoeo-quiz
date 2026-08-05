@@ -1,0 +1,200 @@
+{
+  "served": 79,
+  "hallucination_rate": 0.0,
+  "quote_validity": 1.0,
+  "refusal_accuracy": {
+    "rate": 1.0,
+    "n": 27,
+    "count": 27,
+    "ci95": [
+      0.8754,
+      1.0
+    ]
+  },
+  "false_refusal_rate": {
+    "rate": 0.2476,
+    "n": 105,
+    "count": 26,
+    "ci95": [
+      0.1749,
+      0.3381
+    ]
+  },
+  "retrieval_top1_sim_median": 0.6758,
+  "retrieval_top1_sim_min": 0.5529,
+  "retrieval_hit_rate_at_k": 0.7,
+  "retrieval_hit_rate_at_k_n": 30,
+  "latency": {
+    "overall": {
+      "p50_ms": 1973.0,
+      "p95_ms": 5537.6,
+      "n": 2497
+    },
+    "by_task": {
+      "mcq_generation": {
+        "p50_ms": 2449.5,
+        "p95_ms": 8580.3,
+        "n": 642
+      },
+      "distractor_generation": {
+        "p50_ms": 2140.0,
+        "p95_ms": 5749.2,
+        "n": 637
+      },
+      "grounding_verification": {
+        "p50_ms": 1662.0,
+        "p95_ms": 4587.2,
+        "n": 622
+      },
+      "coaching": {
+        "p50_ms": 1733.5,
+        "p95_ms": 2515.0,
+        "n": 596
+      }
+    },
+    "by_path": {
+      "generative": {
+        "p50_ms": 2111.0,
+        "p95_ms": 6079.0,
+        "n": 1901
+      },
+      "deterministic": {
+        "p50_ms": 1733.5,
+        "p95_ms": 2515.0,
+        "n": 596
+      }
+    }
+  },
+  "failures": [
+    {
+      "topic": "law of similars",
+      "kind": "false_refusal",
+      "why": "Could not produce a grounded question for 'law of similars'. Last verdict: The explanation claims that similar diseases cannot cure one another, but the passage only states that they cannot repel one "
+    },
+    {
+      "topic": "the absence of residual disease after complete symptom cure",
+      "kind": "false_refusal",
+      "why": "Could not produce a grounded question for 'the absence of residual disease after complete symptom cure'. Last verdict: The explanation omits a condition mentioned in the passage for determining if a p"
+    },
+    {
+      "topic": "Nux vomica",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.63 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Nux vomica",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.63 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Lycopodium",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Lycopodium",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Lycopodium",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Arsenicum album",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.61 (margin 0.005), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Arsenicum album",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.61 (margin 0.005), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Belladonna",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Belladonna",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Calcarea Carbonica",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.003), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Calcarea Carbonica",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.003), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Natrium Muriaticum",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.64 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Natrium Muriaticum",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.64 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Natrium Muriaticum",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.64 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Rhus Toxicodendron",
+      "kind": "false_refusal",
+      "why": "Could not produce a grounded question for 'Rhus Toxicodendron'. Last verdict: The passage states 'Antidotes: Rhus poisoning.' but does not specify which substance antidotes it. The correct answer and "
+    },
+    {
+      "topic": "Rhus Toxicodendron",
+      "kind": "false_refusal",
+      "why": "Could not produce a grounded question for 'Rhus Toxicodendron'. Last verdict: The passage mentions 'Antidotes: Rhus poisoning.' but does not specify which remedy antidotes it. The claimed correct answ"
+    },
+    {
+      "topic": "Ignatia Amara",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.004), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Ignatia Amara",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.004), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Ignatia Amara",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.59 (margin 0.004), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Gelsemium Sempervirens",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.63 (margin 0.009), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Gelsemium Sempervirens",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.63 (margin 0.009), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Gelsemium Sempervirens",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.63 (margin 0.009), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Apis Mellifica",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.60 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    },
+    {
+      "topic": "Apis Mellifica",
+      "kind": "false_refusal",
+      "why": "Closest passage scored 0.60 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+    }
+  ]
+}
