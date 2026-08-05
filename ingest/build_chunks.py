@@ -156,6 +156,16 @@ def _chunk_fields(book_file: str, book_key: str, layer: str) -> list[dict]:
             locator = f"{remedy_raw} § {field_name}"
             c = _record(value, label, layer, locator, rec["url"], remedy_raw, field_name=field_name)
             if c:
+                # Identity header on the *embedded* text only -- locator/
+                # metadata above are built from the unprefixed value, and
+                # sparsity (_record -> _is_sparse) was already judged against
+                # it too. Field prose ("Vertigo, with falling...") almost
+                # never names the remedy itself -- verified directly:
+                # bare-name queries like "Belladonna" scored only 0.55-0.66
+                # against Belladonna's own 25 field chunks, because the name
+                # lived only in `locator`, never in what gets vectorised.
+                # See README "Known limits" for the measured before/after.
+                c["text"] = f"{remedy_raw} — {field_name}. {c['text']}"
                 out.append(c)
     return out
 
