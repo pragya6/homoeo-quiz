@@ -8,8 +8,12 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
         with: { python-version: "3.13" }
-      - run: pip install -r requirements.txt          # build
-      - run: python -m pytest evaluation/ -q          # test (pure metrics, no API)
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install pytest
+      - name: Run tests
+        run: python -m pytest evaluation/ -q
       - env: { GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}" }
         run: python -m evaluation.run_eval --sample 15 --repeats 1   # smoke eval
   cd:
