@@ -1,5 +1,7 @@
 __pycache__/
+*.pyc
 .env
+venv/
 logs/
 data/raw/*.txt
 REPERTORY_EVAL_SPEC.md
