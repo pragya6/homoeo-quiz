@@ -1,5 +1,5 @@
 {
-  "served": 79,
+  "served": 102,
   "hallucination_rate": 0.0,
   "quote_validity": 1.0,
   "refusal_accuracy": {
@@ -12,56 +12,56 @@
     ]
   },
   "false_refusal_rate": {
-    "rate": 0.2476,
+    "rate": 0.0286,
     "n": 105,
-    "count": 26,
+    "count": 3,
     "ci95": [
-      0.1749,
-      0.3381
+      0.0098,
+      0.0807
     ]
   },
-  "retrieval_top1_sim_median": 0.6758,
-  "retrieval_top1_sim_min": 0.5529,
-  "retrieval_hit_rate_at_k": 0.7,
+  "retrieval_top1_sim_median": 0.7334,
+  "retrieval_top1_sim_min": 0.5263,
+  "retrieval_hit_rate_at_k": 0.8667,
   "retrieval_hit_rate_at_k_n": 30,
   "latency": {
     "overall": {
-      "p50_ms": 1973.0,
-      "p95_ms": 5537.6,
-      "n": 2497
+      "p50_ms": 1987.0,
+      "p95_ms": 5480.7,
+      "n": 2943
     },
     "by_task": {
       "mcq_generation": {
-        "p50_ms": 2449.5,
-        "p95_ms": 8580.3,
-        "n": 642
+        "p50_ms": 2438.0,
+        "p95_ms": 7810.8,
+        "n": 780
       },
       "distractor_generation": {
-        "p50_ms": 2140.0,
-        "p95_ms": 5749.2,
-        "n": 637
+        "p50_ms": 2132.0,
+        "p95_ms": 5737.1,
+        "n": 775
       },
       "grounding_verification": {
-        "p50_ms": 1662.0,
-        "p95_ms": 4587.2,
-        "n": 622
+        "p50_ms": 1650.0,
+        "p95_ms": 4592.0,
+        "n": 756
       },
       "coaching": {
-        "p50_ms": 1733.5,
-        "p95_ms": 2515.0,
-        "n": 596
+        "p50_ms": 1742.0,
+        "p95_ms": 2689.8,
+        "n": 632
       }
     },
     "by_path": {
       "generative": {
-        "p50_ms": 2111.0,
-        "p95_ms": 6079.0,
-        "n": 1901
+        "p50_ms": 2104.0,
+        "p95_ms": 5974.5,
+        "n": 2311
       },
       "deterministic": {
-        "p50_ms": 1733.5,
-        "p95_ms": 2515.0,
-        "n": 596
+        "p50_ms": 1742.0,
+        "p95_ms": 2689.8,
+        "n": 632
       }
     }
   },
@@ -69,132 +69,17 @@
     {
       "topic": "law of similars",
       "kind": "false_refusal",
-      "why": "Could not produce a grounded question for 'law of similars'. Last verdict: The explanation claims that similar diseases cannot cure one another, but the passage only states that they cannot repel one "
+      "why": "Could not produce a grounded question for 'law of similars'. Last verdict: The supporting quote provided does not fully support the explanation or the correct answer. The quote states that similar dis"
     },
     {
-      "topic": "the absence of residual disease after complete symptom cure",
+      "topic": "the fallacy of a disease confined only to a local body part",
       "kind": "false_refusal",
-      "why": "Could not produce a grounded question for 'the absence of residual disease after complete symptom cure'. Last verdict: The explanation omits a condition mentioned in the passage for determining if a p"
-    },
-    {
-      "topic": "Nux vomica",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.63 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Nux vomica",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.63 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Lycopodium",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Lycopodium",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Lycopodium",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Arsenicum album",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.61 (margin 0.005), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Arsenicum album",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.61 (margin 0.005), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Belladonna",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Belladonna",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Calcarea Carbonica",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.003), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Calcarea Carbonica",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.003), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Natrium Muriaticum",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.64 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Natrium Muriaticum",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.64 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Natrium Muriaticum",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.64 (margin 0.002), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+      "why": "Could not produce a grounded question for 'the fallacy of a disease confined only to a local body part'. Last verdict: n/a"
     },
     {
       "topic": "Rhus Toxicodendron",
       "kind": "false_refusal",
-      "why": "Could not produce a grounded question for 'Rhus Toxicodendron'. Last verdict: The passage states 'Antidotes: Rhus poisoning.' but does not specify which substance antidotes it. The correct answer and "
-    },
-    {
-      "topic": "Rhus Toxicodendron",
-      "kind": "false_refusal",
-      "why": "Could not produce a grounded question for 'Rhus Toxicodendron'. Last verdict: The passage mentions 'Antidotes: Rhus poisoning.' but does not specify which remedy antidotes it. The claimed correct answ"
-    },
-    {
-      "topic": "Ignatia Amara",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.004), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Ignatia Amara",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.004), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Ignatia Amara",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.59 (margin 0.004), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Gelsemium Sempervirens",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.63 (margin 0.009), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Gelsemium Sempervirens",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.63 (margin 0.009), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Gelsemium Sempervirens",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.63 (margin 0.009), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Apis Mellifica",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.60 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
-    },
-    {
-      "topic": "Apis Mellifica",
-      "kind": "false_refusal",
-      "why": "Closest passage scored 0.60 (margin n/a), below the 0.65 confidence floor and the 0.55-floor/0.02-margin fallback."
+      "why": "Could not produce a grounded question for 'Rhus Toxicodendron'. Last verdict: The explanation correctly identifies that scabies is not mentioned in the passage. However, the question asks which condit"
     }
   ]
 }
