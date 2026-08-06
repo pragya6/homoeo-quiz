@@ -1,27 +1,42 @@
-name: ci-cd
+name: deploy
+
 on:
-  push: { branches: [main] }
+  push:
+    branches: [main]
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
-        with: { python-version: "3.13" }
-      - name: Install dependencies
+        with:
+          python-version: '3.13'
+      - name: Install deps
         run: |
           pip install -r requirements.txt
           pip install pytest
-      - name: Run tests
+      - name: Unit tests (no API key)
         run: python -m pytest evaluation/ -q
-      - env: { GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}" }
-        run: python -m evaluation.run_eval --sample 15 --repeats 1   # smoke eval
+      - name: Smoke eval
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -m evaluation.run_eval --sample 15 --repeats 1
+
   cd:
-    needs: ci                                          # only if CI is green
+    needs: ci
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
-      - env: { HF_TOKEN: "${{ secrets.HF_TOKEN }}" }
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Push to HF Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           git push https://user:$HF_TOKEN@huggingface.co/spaces/pragya6/homeo-quiz main --force
