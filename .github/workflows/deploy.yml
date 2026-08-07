@@ -3,6 +3,8 @@ name: deploy
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 
 concurrency:
   group: deploy-${{ github.ref }}
@@ -25,7 +27,7 @@ jobs:
       - name: Smoke eval
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python -m evaluation.run_eval --sample 15 --repeats 1
+        run: python -m evaluation.run_eval --repeats 1
 
   cd:
     needs: ci
