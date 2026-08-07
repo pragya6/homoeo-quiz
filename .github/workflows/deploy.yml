@@ -39,4 +39,4 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git push https://user:$HF_TOKEN@huggingface.co/spaces/pragya6/homeo-quiz main --force
+          git push https://user:$HF_TOKEN@huggingface.co/spaces/pragya6/homoeo-quiz main --force
