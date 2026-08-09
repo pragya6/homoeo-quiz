@@ -4,6 +4,12 @@ __pycache__/
 venv/
 logs/
 data/raw/*.txt
+
+# Built at startup by app.py::ensure_index() from the committed source files
+# (data/remedy_aliases.json, out/*.json) -- never commit the built binaries,
+# that's what was breaking the GitHub -> HF Spaces LFS transfer.
+data/chroma/
+data/repertory.db
 REPERTORY_EVAL_SPEC.md
 CLAUDE_CODE_EVAL_EXPANSION.md
 Extraction hand off.md

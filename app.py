@@ -14,6 +14,70 @@ the model as instructions, only as an answer to parse.
 
 from __future__ import annotations
 
+import sys
+
+from config import CHROMA_DIR, REPERTORY_DB
+
+# Tier 1 only (organon+boericke+allen, 6,448 chunks) -- matches what was
+# actually shipped before (the committed index was ~19MB, the same size this
+# subset builds to) and keeps the startup build to a couple of minutes on
+# CPU. The full 6-book set measured ~32 min / ~150MB locally, too slow to
+# pay on every fresh/sleeping HF Space container -- see ingest/build_index.py
+# for the --books flag this reuses.
+INDEX_BOOKS = "organon,boericke,allen"
+
+
+def ensure_index() -> None:
+    """Build the Chroma index and repertory DB on first boot if either is
+    missing, then return. Idempotent — a container that already has both
+    (a warm restart, not a fresh deploy) does nothing.
+
+    Both are gitignored and never committed (see .gitignore / CLAUDE_CODE_TASK
+    context): the app builds them from the small committed source files
+    (data/remedy_aliases.json, out/*.json) instead of shipping the built
+    binaries through git, which is what was breaking the HF Spaces deploy
+    (data/chroma/chroma.sqlite3 and data/repertory.db as large Git LFS
+    objects that didn't transfer cleanly GitHub -> HF).
+
+    Must run before rag.retriever / rag.repertory open their DB handles —
+    both are lazy singletons that raise if the file isn't there yet.
+    """
+    repertory_ready = REPERTORY_DB.exists()
+    chroma_ready = (CHROMA_DIR / "chroma.sqlite3").exists()
+
+    if repertory_ready and chroma_ready:
+        print("[ensure_index] index ready (found existing data/chroma and data/repertory.db)")
+        return
+
+    if not repertory_ready:
+        print("[ensure_index] repertory.db missing, building (reads out/kent_repertory.json, ~10s, no API calls)...")
+        from ingest.build_repertory import main as build_repertory
+
+        if build_repertory() != 0:
+            raise RuntimeError("ingest.build_repertory failed — see output above")
+        print("[ensure_index] repertory.db ready")
+
+    if not chroma_ready:
+        print(f"[ensure_index] chroma index missing, building tier-1 books ({INDEX_BOOKS}) "
+              "locally with sentence-transformers, no API calls, a few minutes on CPU...")
+        from ingest.build_index import main as build_chroma_index
+
+        # build_index.main() reads --books from sys.argv (it's a CLI entry
+        # point); reusing it here instead of duplicating its logic means
+        # driving it the same way its own CLI does.
+        old_argv = sys.argv
+        sys.argv = ["ingest.build_index", "--books", INDEX_BOOKS]
+        try:
+            rc = build_chroma_index()
+        finally:
+            sys.argv = old_argv
+        if rc != 0:
+            raise RuntimeError("ingest.build_index failed — see output above")
+        print("[ensure_index] chroma index ready")
+
+
+ensure_index()
+
 import gradio as gr
 
 from config import EXAMS, SUBJECTS
