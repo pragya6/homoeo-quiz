@@ -31,6 +31,7 @@ jobs:
         # not committed -- see app.py::ensure_index), so CI has to build them
         # too before anything that retrieves can run. No API calls; local
         # embedding only.
+        run: git lfs pull
         run: python -c "from app import ensure_index; ensure_index()"
       - name: Smoke eval
         env:
