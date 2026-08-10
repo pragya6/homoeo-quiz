@@ -48,6 +48,8 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true               # pull real out/*.json blobs, not just pointers
+      - name: Fetch all LFS objects
+        run: git lfs fetch --all
       - name: Push to HF Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
