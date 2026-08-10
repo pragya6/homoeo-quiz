@@ -27,13 +27,10 @@ jobs:
       - name: Unit tests (no API key)
         run: python -m pytest evaluation/ -q
       - name: Pull LFS files
+        # data/chroma/ and data/repertory.db are committed via LFS (see
+        # .gitattributes), so this brings in the real prebuilt index --
+        # no need to rebuild it here.
         run: git lfs pull
-      - name: Build index
-        # data/chroma/ and data/repertory.db are gitignored (built at runtime,
-        # not committed -- see app.py::ensure_index), so CI has to build them
-        # too before anything that retrieves can run. No API calls; local
-        # embedding only.
-        run: python -c "from app import ensure_index; ensure_index()"
       - name: Smoke eval
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -46,11 +43,17 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 0
-          lfs: true               # pull real out/*.json blobs, not just pointers
-      - name: Fetch all LFS objects
-        run: git lfs fetch --all
+          lfs: true               # pull real blobs (chroma/repertory/out), not just pointers
       - name: Push to HF Space
+        # HF Space is a deploy target, not a source-history archive: push a
+        # single squashed commit of the current tree instead of full main
+        # history. Full history still carries earlier commits where
+        # data/chroma + repertory.db were plain (non-LFS) blobs, which trips
+        # HF's 10MiB-per-file limit even though HEAD is clean.
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://user:$HF_TOKEN@huggingface.co/spaces/pragya6/homoeo-quiz main --force
+        run: |
+          git checkout --orphan hf-deploy
+          git -c user.name="deploy-bot" -c user.email="deploy-bot@users.noreply.github.com" \
+            commit -m "Deploy ${GITHUB_SHA}"
+          git push https://user:$HF_TOKEN@huggingface.co/spaces/pragya6/homoeo-quiz hf-deploy:main --force

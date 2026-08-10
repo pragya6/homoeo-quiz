@@ -32,12 +32,11 @@ def ensure_index() -> None:
     missing, then return. Idempotent — a container that already has both
     (a warm restart, not a fresh deploy) does nothing.
 
-    Both are gitignored and never committed (see .gitignore / CLAUDE_CODE_TASK
-    context): the app builds them from the small committed source files
-    (data/remedy_aliases.json, out/*.json) instead of shipping the built
-    binaries through git, which is what was breaking the HF Spaces deploy
-    (data/chroma/chroma.sqlite3 and data/repertory.db as large Git LFS
-    objects that didn't transfer cleanly GitHub -> HF).
+    Both are normally committed via Git LFS (see .gitattributes) so a fresh
+    deploy already has them and this is a no-op. This function only builds
+    from the small committed source files (data/remedy_aliases.json,
+    out/*.json) as a fallback -- e.g. a fresh clone without LFS data, or CI
+    before the index has been committed.
 
     Must run before rag.retriever / rag.repertory open their DB handles —
     both are lazy singletons that raise if the file isn't there yet.
