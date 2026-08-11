@@ -18,15 +18,6 @@ import sys
 
 from config import CHROMA_DIR, REPERTORY_DB
 
-# Tier 1 only (organon+boericke+allen, 6,448 chunks) -- matches what was
-# actually shipped before (the committed index was ~19MB, the same size this
-# subset builds to) and keeps the startup build to a couple of minutes on
-# CPU. The full 6-book set measured ~32 min / ~150MB locally, too slow to
-# pay on every fresh/sleeping HF Space container -- see ingest/build_index.py
-# for the --books flag this reuses.
-INDEX_BOOKS = "organon,boericke,allen"
-
-
 def ensure_index() -> None:
     """Build the Chroma index and repertory DB on first boot if either is
     missing, then return. Idempotent — a container that already has both
@@ -57,15 +48,16 @@ def ensure_index() -> None:
         print("[ensure_index] repertory.db ready")
 
     if not chroma_ready:
-        print(f"[ensure_index] chroma index missing, building tier-1 books ({INDEX_BOOKS}) "
-              "locally with sentence-transformers, no API calls, a few minutes on CPU...")
+        print("[ensure_index] chroma index missing, building the full corpus "
+              "locally with sentence-transformers, no API calls, ~30min on CPU...")
         from ingest.build_index import main as build_chroma_index
 
         # build_index.main() reads --books from sys.argv (it's a CLI entry
         # point); reusing it here instead of duplicating its logic means
-        # driving it the same way its own CLI does.
+        # driving it the same way its own CLI does. No --books passed, so it
+        # falls through to its own default (ALL_BOOKS).
         old_argv = sys.argv
-        sys.argv = ["ingest.build_index", "--books", INDEX_BOOKS]
+        sys.argv = ["ingest.build_index"]
         try:
             rc = build_chroma_index()
         finally:
@@ -134,30 +126,55 @@ def _render_reveal(sess: Session, correct: bool, choice: int | None) -> str:
     )
 
 
+MAX_TOPIC_RETRIES = 5
+
+
 def _next_question(sess: Session) -> str:
-    topic, subject = sess.next_topic()
-    try:
-        mcq, source, _verdict = make_question(
-            exam=sess.exam, subject=subject, topic=topic, asked=sess.asked
-        )
-    except NotInCorpus as exc:
-        sess.state = State.CONFIG_MODE
+    """Pick a topic and generate a question for it.
+
+    A topic the student typed themselves is a request we owe them an answer
+    about — if it fails, say so. A topic we auto-picked (general practice, or
+    the weak-topic reroll) is our own implementation detail; if the corpus is
+    thin on it, that's not the student's problem, so swap in another pick
+    silently rather than dumping them back to config mode.
+    """
+    tried: set[str] = set()
+    topic = subject = last_topic = None
+    last_exc: NotInCorpus | GenerationFailed | None = None
+
+    for _ in range(MAX_TOPIC_RETRIES):
+        topic, subject = sess.next_topic()
+        if topic in tried:
+            continue
+        tried.add(topic)
+        is_explicit_ask = topic == sess.topic and not sess.general_mode
+
+        try:
+            mcq, source, _verdict = make_question(
+                exam=sess.exam, subject=subject, topic=topic, asked=sess.asked
+            )
+        except (NotInCorpus, GenerationFailed) as exc:
+            last_topic, last_exc = topic, exc
+            if is_explicit_ask:
+                break
+            continue
+
+        sess.serve(mcq, f"{source.book} — {source.locator}")
+        sess._last_topic = topic  # noqa: SLF001 - simple carry for grading
+        return _render_question(sess, topic)
+
+    sess.state = State.CONFIG_MODE
+    if isinstance(last_exc, NotInCorpus):
         return (
-            f"I don't have solid source material for **{topic}** in the indexed "
-            f"canon, so I won't invent a question about it.\n\n_({exc})_\n\n"
+            f"I don't have solid source material for **{last_topic}** in the indexed "
+            f"canon, so I won't invent a question about it.\n\n_({last_exc})_\n\n"
             "Try another topic, or type `general`."
         )
-    except GenerationFailed as exc:
-        sess.state = State.CONFIG_MODE
-        return (
-            f"I drafted a question on **{topic}** but it failed my own grounding "
-            f"check, so I'm discarding it rather than showing you something I "
-            f"can't source.\n\n_({exc})_\n\nPick another topic, or type `general`."
-        )
-
-    sess.serve(mcq, f"{source.book} — {source.locator}")
-    sess._last_topic = topic  # noqa: SLF001 - simple carry for grading
-    return _render_question(sess, topic)
+    return (
+        f"I drafted a question on **{last_topic}** but it failed my own grounding "
+        f"check, so I'm discarding it rather than showing you something I "
+        f"can't source.\n\n_({last_exc})_\n\nPick another topic, or type `general`."
+    )
 
 
 def respond(message: str, history: list, sess: Session):
