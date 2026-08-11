@@ -3,10 +3,8 @@ title: HomoeoQuiz
 emoji: 🌿
 colorFrom: green
 colorTo: blue
-sdk: gradio
-sdk_version: 6.20.0
-python_version: "3.13"
-app_file: app.py
+sdk: docker
+app_port: 7860
 pinned: false
 ---
 
