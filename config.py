@@ -149,7 +149,7 @@ DETERMINISTIC_ROUTE_RATE = 0.40
 # there's no other way to serve it.
 DETERMINISTIC_ELIGIBLE_SUBJECTS = {"Repertory", "Materia Medica"}
 
-EXAMS = ["UPSC (Homoeopathy)", "SR-ship Entrance", "Other / General"]
+EXAMS = ["UPSC (Homoeopathy)", "Other / General"]
 
 SUBJECTS = [
     "Organon of Medicine",

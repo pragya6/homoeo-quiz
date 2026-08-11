@@ -207,7 +207,7 @@ def build() -> gr.Blocks:
     # pins gradio>=5.9.0 with no upper bound, so this needs to work against
     # whatever 5.x/6.x actually resolves.
     with gr.Blocks(title="HomeoQuiz") as demo:
-        gr.Markdown("# 🌿 HomeoQuiz\n*Grounded MCQ practice · UPSC Homoeopathy · SR-ship*")
+        gr.Markdown("# 🌿 HomeoQuiz\n*Grounded MCQ practice · UPSC Homoeopathy*")
 
         # gr.State deep-copies this value for each browser session, so students
         # never share a quiz. Swap for a keyed store when you outgrow one process.

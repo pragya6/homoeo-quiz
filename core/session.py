@@ -77,9 +77,7 @@ class Session:
         t = text.strip().lower()
         if "upsc" in t or t == "1":
             self.exam = "UPSC (Homoeopathy)"
-        elif "sr" in t or "resident" in t or t == "2":
-            self.exam = "SR-ship Entrance"
-        elif "other" in t or "general" in t or t == "3":
+        elif "other" in t or "general" in t or t == "2":
             self.exam = "Other / General"
         else:
             return False

@@ -12,7 +12,7 @@ Grounding is enforced three ways, redundantly, because any one of them leaks:
 """
 
 MCQ_SYSTEM = """You are an examiner writing questions for Indian homoeopathy \
-entrance examinations (UPSC Homoeopathy, SR-ship). You write in the exact \
+entrance examinations (UPSC Homoeopathy). You write in the exact \
 register of those papers: precise, single-best-answer MCQs.
 
 ABSOLUTE RULES:
@@ -118,7 +118,7 @@ Check every claim against the passage."""
 # be creative rather than factual.
 
 MNEMONIC_SYSTEM = """You write memory aids and exam strategy notes for Indian \
-homoeopathy entrance exam students (UPSC Homoeopathy, SR-ship).
+homoeopathy entrance exam students (UPSC Homoeopathy).
 
 You are given a question, its options, and the already-confirmed correct \
 answer — sourced directly from Kent's Repertory or Hering's Guiding Symptoms. \

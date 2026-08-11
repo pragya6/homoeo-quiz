@@ -10,9 +10,9 @@ pinned: false
 
 # 🌿 HomoeoQuiz
 
-Grounded MCQ practice for Indian homoeopathy entrance exams (UPSC Homoeopathy,
-SR-ship). Every question comes from the classical, public-domain canon and
-gets checked against its source passage before a student ever sees it.
+Grounded MCQ practice for Indian homoeopathy entrance exams (UPSC Homoeopathy).
+Every question comes from the classical, public-domain canon and gets checked
+against its source passage before a student ever sees it.
 
 The bot doesn't answer from memory. If the corpus doesn't cover something, it
 says so instead of guessing. That refusal is the actual product here, not a
